@@ -1,0 +1,101 @@
+﻿year,category,institution_id,institution_name,city,state,overall_score,rank,rank_original,tlr,rpc,go,oi,pr,source_url
+2019,Overall,IR-O-U-0456,Indian Institute of Technology Madras,Chennai,Tamil Nadu,83.88,1,1,84.5683,5387.1366,894.14,83.881,84.5683,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0220,Indian Institute of Science,Bengaluru,Karnataka,82.28,2,2,83.1689,2478.5748,47100.0,82.28,2.0,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-I-1074,Indian Institute of Technology Delhi,New Delhi,Delhi,78.69,3,3,78.3082,9879.1458,5886.14,78.693,78.3082,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0306,Indian Institute of Technology Bombay,Mumbai,Maharashtra,78.62,4,4,76.9584,3682.315,6886.92,78.624,76.9584,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,74.31,5,5,67.3676,6586.176,6378.11,74.315,67.3676,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-I-1075,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,69.07,6,6,71.9569,6169.965,3975.68,69.076,71.9569,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0109,Jawaharlal Nehru University,New Delhi,Delhi,68.68,7,7,76.7541,8599.8775,8755.27,68.687,76.7541,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0560,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,67.68,8,8,67.3265,887.1461,6443.66,67.688,67.3265,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0053,Indian Institute of Technology Guwahati,Guwahati,Assam,65.47,9,9,76.7956,5873.876,6346.34,65.479,76.7956,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,64.55,10,10,69.7246,4896.3757,147.28,64.551,69.7246,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0042,University of Hyderabad,Hyderabad,Telangana,61.85,11,11,74.8143,7883.6458,7736.71,61.8511,74.8143,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0570,Calcutta University,Kolkata,West Bengal,60.87,12,12,62.2647,1091.546,1437.39,60.8712,62.2647,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0575,Jadavpur University,Kolkata,West Bengal,60.53,13,13,54.4054,8990.2844,9551.83,60.5313,54.4054,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0439,Anna University,Chennai,Tamil Nadu,60.35,14,14,56.3954,1078.0753,1662.72,60.3514,56.3954,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0436,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,59.22,15,15,73.0343,7770.287,2331.01,59.2215,73.0343,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0234,Manipal Academy of Higher Education,Manipal,Karnataka,58.5,16,16,77.9138,3169.7166,7830.21,58.5016,77.9138,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0323,Savitribai Phule Pune University,Pune,Maharashtra,58.4,17,17,69.2644,4286.0454,3416.55,58.4017,69.2644,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,58.36,18,18,76.6935,3885.6757,5618.46,58.3618,76.6935,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0108,Jamia Millia Islamia,New Delhi,Delhi,58.07,19,19,73.7432,488.5371,9714.26,58.0719,73.7432,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0120,University of Delhi,Delhi,Delhi,57.59,20,20,47.8753,7987.1855,4041.11,57.592,47.8753,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0447,Bharathiar University,Coimbatore,Tamil Nadu,57.23,21,21,66.9345,476.5352,1131.2,57.2321,66.9345,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0013,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,56.92,22,22,70.914,8267.4758,7740.33,56.9222,70.914,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0305,Indian Institute of Science Education & Research Pune,Pune,Maharashtra,54.48,23,23,70.5342,557.136,1132.75,54.4823,70.5342,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0467,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,54.32,24,24,61.2534,7270.8962,8950.61,54.3224,61.2534,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,Dhanbad,Jharkhand,53.4,25,25,54.725,9876.0039,4225.54,53.4025,54.725,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-S-8972,Indian Institute of Management Calcutta,Kolkata,West Bengal,52.68,26,26,78.8017,1262.5567,6246.34,52.6826,78.8017,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,52.62,27,27,54.6748,4072.6151,4920.28,52.6227,54.6748,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,Varanasi,Uttar Pradesh,52.49,28,28,62.0939,4468.3254,4829.2,52.4928,62.0939,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0006,Andhra University,Visakhapatnam,Andhra Pradesh,52.11,29,29,69.3623,1686.6155,7314.55,52.1129,69.3623,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0304,Homi Bhabha National Institute,Mumbai,Maharashtra,51.95,30,30,83.2625,2471.1847,294.33,51.953,83.2625,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0107,Jamia Hamdard,New Delhi,Delhi,51.73,31,31,69.6429,9274.1263,526.86,51.7331,69.6429,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0490,Vellore Institute of Technology,Vellore,Tamil Nadu,51.44,32,32,48.7047,6366.5557,235.31,51.4432,48.7047,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-I-1357,University of Madras,Chennai,Tamil Nadu,51.34,33,33,64.2933,2868.2654,1830.01,51.3433,64.2933,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0078,Panjab University,Chandigarh,Chandigarh,51.25,34,34,51.0244,8272.5052,8927.09,51.2534,51.0244,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0260,Kerala University,Thiruvananthapuram,Kerala,51.21,35,35,74.8018,8485.7051,208.59,51.2135,74.8018,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0584,Indian Institute of Engineering Science and Technology,Shibpur,West Bengal,50.96,36,36,62.9836,7466.4747,1930.41,50.9636,62.9836,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0272,Indian Institute of Science Education & Research Bhopal,Bhopal,Madhya Pradesh,50.88,37,37,68.8031,4965.9268,217.91,50.8837,68.8031,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0357,National Institute of Technology Rourkela,Rourkela,Odisha,50.75,38,38,54.2345,6568.6845,9724.4,50.7538,54.2345,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0391,Birla Institute of Technology & Science,Pilani,Rajasthan,50.53,39,39,56.6834,1473.0652,2634.41,50.5339,56.6834,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0572,Indian Institute of Science Education & Research Kolkata,Mohanpur,West Bengal,50.44,40,40,69.9941,2145.0955,6924.86,50.444,69.9941,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,50.31,41,41,72.9621,1769.8461,420.02,50.3141,72.9621,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0523,King George`s Medical University,Lucknow,Uttar Pradesh,49.91,42,42,79.8225,8561.3853,385.8,49.9142,79.8225,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0027,Osmania University,Hyderabad,Telangana,49.86,43,43,58.2024,9592.0955,689.26,49.8643,58.2024,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0184,Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,49.4,44,44,67.6228,3664.5665,6811.2,49.4044,67.6228,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),Patiala,Punjab,49.27,45,45,62.1336,3065.3156,5810.24,49.2745,62.1336,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0355,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,48.73,46,46,64.6432,9155.5757,6125.99,48.7346,64.6432,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0435,Alagappa University,Karaikudi,Tamil Nadu,48.54,47,47,66.7222,1871.1749,7526.65,48.5447,66.7222,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0056,Tezpur University,Tezpur,Assam,48.47,48,48,66.923,1063.475,9915.71,48.4748,66.923,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0262,Mahatma Gandhi University,Kottayam,Kerala,48.08,49,49,66.4926,9772.3951,983.58,48.0849,66.4926,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,47.97,50,50,66.0118,1071.7069,3814.55,47.975,66.0118,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0139,Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,47.85,51,51,61.9531,4356.2361,6024.17,47.8551,61.9531,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0473,SRM Institute of Science and Technology,Chennai,Tamil Nadu,47.8,52,52,56.6726,5178.0758,914.26,47.8052,56.6726,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0237,National Institute of Technology Karnataka,Surathkal,Karnataka,47.37,53,53,51.3232,2771.355,8929.4,47.3753,51.3232,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-I-1486,Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,47.34,54,54,73.8416,5770.4955,46.15,47.3454,73.8416,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0222,JSS Academy of Higher Education and Research,Mysore,Karnataka,46.97,55,55,70.3215,7465.487,2610.24,46.9755,70.3215,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0331,Tata Institute of Social Sciences,Mumbai,Maharashtra,46.82,56,56,65.179,9779.7671,1612.14,46.8256,65.179,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0446,Bharath Institute of Higher Education & Research,Chennai,Tamil Nadu,46.32,57,57,68.0917,7664.9672,533.19,46.3257,68.0917,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0064,Indian Institute of Technology Patna,Patna,Bihar,46.28,58,58,66.9329,8054.3751,4312.45,46.2858,66.9329,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0589,Visva Bharati,Santiniketan,West Bengal,46.27,59,59,60.6526,774.7941,3911.52,46.2759,60.6526,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0554,G. B. Pant Universtiy of Agriculture and Technology,Pantnagar,Uttarakhand,46.09,60,60,71.5815,4975.6543,25.44,46.096,71.5815,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0025,National Institute of Technology Warangal,Warangal,Telangana,46.06,61,61,57.8824,7167.9757,4519.51,46.0661,57.8824,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0341,North Eastern Hill University,Shillong,Meghalaya,45.99,62,62,67.8614,5375.7254,756.51,45.9962,67.8614,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0476,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,45.8,63,63,55.5532,3865.1657,136.86,45.8063,55.5532,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0474,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,45.58,64,64,59.1727,1565.8662,792.41,45.5864,59.1727,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0052,Gauhati University,Guwahati,Assam,45.57,65,65,66.0918,874.7044,249.59,45.5765,66.0918,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0377,Indian Institute of Science Education & Research Mohali,Mohali,Punjab,45.43,66,66,66.4325,2745.397,9817.38,45.4366,66.4325,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,45.42,67,67,69.9817,6462.1667,150.0,45.4267,69.9817,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0485,Tamil Nadu Agricultural University,Coimbatore,Tamil Nadu,45.41,68,68,74.7211,5869.3145,1011.52,45.4168,74.7211,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0463,Madurai Kamraj University,Madurai,Tamil Nadu,45.2,69,69,63.9428,1157.1041,3620.28,45.2069,63.9428,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-I-1110,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,45.11,70,70,77.387,6162.4663,717.56,45.117,77.387,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0098,Delhi Technological University,New Delhi,Delhi,44.89,71,71,55.9924,3366.8954,6119.51,44.8971,55.9924,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0037,Sri Venkateswara University,Tirupati,Andhra Pradesh,44.88,72,72,62.4623,6069.6344,796.51,44.8872,62.4623,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0369,Pondicherry University,Puducherry,Pondicherry,44.88,72,72,47.9226,6373.3159,3019.25,44.8872,47.9226,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,44.7,74,74,67.1719,763.8057,153.58,44.7074,67.1719,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0381,Punjab Agricultural University,Ludhiana,Punjab,44.66,75,75,76.9719,7456.224,933.19,44.6675,76.9719,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-C-37013,PSG College of Technology,Coimbatore,Tamil Nadu,44.46,76,76,63.6912,6161.0349,9543.66,44.4676,63.6912,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0642,Shiv Nadar University,Dadri,Uttar Pradesh,44.45,77,77,69.4614,561.5364,616.15,44.4577,69.4614,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-C-16604,Sri Sivasubramaniya Nadar College of Engineering,Kancheepuram,Tamil Nadu,44.35,78,78,62.4022,9763.4452,927.56,44.3578,62.4022,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0196,University of Kashmir,Srinagar,Jammu and Kashmir,44.19,79,79,59.8218,3379.2047,361.63,44.1979,59.8218,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0235,Mysore University,Mysore,Karnataka,44.06,80,80,57.3018,1578.4352,674.7,44.068,57.3018,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0376,Guru Nanak Dev University,Amritsar,Punjab,43.69,81,81,46.5129,3874.7254,25.8,43.6981,46.5129,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0329,Symbiosis International,Pune,Maharashtra,43.65,82,82,70.019,4361.0372,883.19,43.6582,70.019,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-N-10,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,43.63,83,83,68.8311,6864.2265,211.22,43.6383,68.8311,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0497,Amity University,Gautam Budh Nagar,Uttar Pradesh,43.53,84,84,50.1128,3065.4861,947.22,43.5384,50.1128,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,43.49,85,85,54.7229,4756.9744,8823.47,43.4985,54.7229,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0448,Bharathidasan University,Tiruchirappalli,Tamil Nadu,43.41,86,86,60.7429,548.9242,7724.17,43.4186,60.7429,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0389,Banasthali Vidyapith,Banasthali,Rajasthan,43.22,87,87,50.4011,6784.8772,14.33,43.2287,50.4011,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-I-1361,Bharati Vidyapeeth,Pune,Maharashtra,42.89,88,88,63.9111,4264.496,2313.66,42.8988,63.9111,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0159,Chaudhary Charan Singh Haryana Agricultural University,Hisar,Haryana,42.36,89,89,76.876,9156.4157,502.02,42.3689,76.876,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0251,Calicut University,Malappuram,Kerala,42.22,90,90,56.3216,4671.5353,457.22,42.229,56.3216,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-C-41593,College of Engineering,Pune,Maharashtra,42.11,91,91,56.362,5261.3652,2815.42,42.1191,56.362,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0295,Datta Meghe Institute of Medical Sciences,Wardha,Maharashtra,41.73,92,92,75.463,1660.5759,480.82,41.7392,75.463,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0577,National Institute of Technology Durgapur,Durgapur,West Bengal,41.59,93,93,47.0628,9664.0147,7012.14,41.5993,47.0628,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0253,Cochin University of Science and Technology,Cochin,Kerala,41.42,94,94,47.2226,8864.8047,5614.84,41.4294,47.2226,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0099,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,41.21,95,95,56.3918,9664.6253,193.58,41.2195,56.3918,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0123,Anand Agricultural University,Anand,Gujarat,41.2,96,96,69.4812,2559.1241,457.22,41.2096,69.4812,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0470,Periyar University,Salem,Tamil Nadu,40.99,97,97,52.302,7459.1353,2619.25,40.9997,52.302,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0225,KLE Academy of Higher Education and Research,Belagavi,Karnataka,40.92,98,98,71.238,7349.5266,54.33,40.9298,71.238,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0239,NITTE,Mangaluru,Karnataka,40.88,99,99,70.389,3148.6166,116.51,40.8899,70.389,https://www.nirfindia.org/Rankings/2019/OverallRanking.html
+2019,Overall,IR-O-U-0487,Tamil Nadu Veterinary & Animal Sciences University,Chennai,Tamil Nadu,40.88,99,99,70.988,162.8544,122.02,40.8899,70.988,https://www.nirfindia.org/Rankings/2019/OverallRanking.html

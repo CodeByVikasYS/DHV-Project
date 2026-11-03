@@ -1,0 +1,101 @@
+﻿year,category,institution_id,institution_name,city,state,overall_score,rank,rank_original,tlr,rpc,go,oi,pr,source_url
+2021,Overall,IR-O-U-0456,Indian Institute of Technology Madras,Chennai,Tamil Nadu,86.76,1,1,85.6192,5186.3263,5797.13,86.761,85.6192,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0220,Indian Institute of Science,Bengaluru,Karnataka,82.67,2,2,79.1391,4878.2358,39100.0,82.672,79.1391,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0306,Indian Institute of Technology Bombay,Mumbai,Maharashtra,82.52,3,3,83.5287,8180.8657,4891.96,82.523,83.5287,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-I-1074,Indian Institute of Technology Delhi,New Delhi,Delhi,81.75,4,4,84.0284,4675.0767,9793.89,81.754,84.0284,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-I-1075,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,76.5,5,5,80.5075,2380.7456,9779.3,76.505,80.5075,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,75.62,6,6,74.2576,2383.2355,3582.92,75.626,74.2576,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0560,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,71.4,7,7,76.6868,3783.1665,3147.28,71.407,76.6868,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0053,Indian Institute of Technology Guwahati,Guwahati,Assam,69.26,8,8,73.7566,2581.2662,9547.04,69.268,73.7566,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0109,Jawaharlal Nehru University,New Delhi,Delhi,66.61,9,9,71.1944,9695.0773,3654.12,66.619,71.1944,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,63.1,10,10,64.5045,100.0053,1349.38,63.101,64.5045,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0570,Calcutta University,Kolkata,West Bengal,61.45,11,11,66.2043,9291.726,9839.68,61.4511,66.2043,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0436,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,59.87,12,12,64.2354,3371.3565,5434.8,59.8712,64.2354,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0108,Jamia Millia Islamia,New Delhi,Delhi,59.54,13,13,66.4443,4386.6772,3520.25,59.5413,66.4443,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0575,Jadavpur University,Kolkata,West Bengal,58.93,14,14,51.7051,7287.775,1653.3,58.9314,51.7051,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0234,Manipal Academy of Higher Education,Manipal,Karnataka,58.91,15,15,67.6848,1776.0565,2524.18,58.9115,67.6848,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0013,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,58.53,16,16,61.4052,6467.5158,5949.61,58.5316,61.4052,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0042,University of Hyderabad,Hyderabad,Telangana,57.67,17,17,69.594,7477.4458,7232.13,57.6717,69.594,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,57.38,18,18,69.064,8680.0656,9327.0,57.3818,69.064,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0120,University of Delhi,Delhi,Delhi,56.03,19,19,42.6554,2382.6659,6044.81,56.0319,42.6554,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0323,Savitribai Phule Pune University,Pune,Maharashtra,55.83,20,20,62.9542,7786.965,9216.41,55.832,62.9542,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0490,Vellore Institute of Technology,Vellore,Tamil Nadu,55.39,21,21,48.4356,8369.9459,3838.8,55.3921,48.4356,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0447,Bharathiar University,Coimbatore,Tamil Nadu,55.38,22,22,61.7947,4574.1753,2124.6,55.3822,61.7947,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0467,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,54.97,23,23,52.3944,5871.7963,3451.82,54.9723,52.3944,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0305,Indian Institute of Science Education & Research Pune,Pune,Maharashtra,54.47,24,24,67.2445,5859.3158,7528.91,54.4724,67.2445,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0439,Anna University,Chennai,Tamil Nadu,54.42,25,25,51.9143,973.1151,3561.72,54.4225,51.9143,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0205,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,53.88,26,26,48.1856,6471.1655,1527.0,53.8826,48.1856,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,53.76,27,27,50.0555,8275.9646,722.04,53.7627,50.0555,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,Varanasi,Uttar Pradesh,53.74,28,28,55.8747,4169.8856,6931.08,53.7428,55.8747,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0391,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,53.32,29,29,55.8143,1372.0559,5032.81,53.3229,55.8143,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0273,Indian Institute of Technology Indore,Indore,Madhya Pradesh,53.22,30,30,57.5149,2569.7156,5915.91,53.223,57.5149,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0378,Indian Institute of Technology Ropar,Rupnagar,Punjab,52.89,31,31,72.7632,9262.0563,8823.76,52.8931,72.7632,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0237,National Institute of Technology Karnataka,Surathkal,Karnataka,52.88,32,32,53.8141,7473.3265,5830.01,52.8832,53.8141,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0139,Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,52.77,33,33,71.2637,1557.2164,2123.76,52.7733,71.2637,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0235,Mysore University,Mysuru,Karnataka,50.49,34,34,68.7718,7990.5454,246.85,50.4934,68.7718,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0572,Indian Institute of Science Education & Research Kolkata,Mohanpur,West Bengal,50.48,35,35,59.6738,8266.2653,5323.34,50.4835,59.6738,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0304,Homi Bhabha National Institute,Mumbai,Maharashtra,50.42,36,36,68.6436,4565.985,796.22,50.4236,68.6436,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,50.34,37,37,63.8929,9271.3465,8913.28,50.3437,63.8929,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0078,Panjab University,Chandigarh,Chandigarh,50.31,38,38,48.884,8671.5753,4937.31,50.3138,48.884,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,50.0,39,39,62.4027,7870.0078,4311.06,50.0039,62.4027,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0377,"Indian Institute of Science Education & Research, Mohali",Mohali,Punjab,49.58,40,40,62.4331,8659.5871,6522.04,49.584,62.4331,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0357,National Institute of Technology Rourkela,Rourkela,Odisha,49.27,41,41,49.1948,2965.3251,6617.89,49.2741,49.1948,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0476,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,49.15,42,42,58.5838,2866.3057,7810.48,49.1542,58.5838,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0260,Kerala University,Thiruvananthapuram,Kerala,48.87,43,43,64.7719,9389.1151,534.91,48.8743,64.7719,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0497,Amity University,Gautam Budh Nagar,Uttar Pradesh,48.87,43,43,48.9843,2767.5564,6612.18,48.8743,48.9843,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-I-1480,Thapar Institute of Engineering and Technology,Patiala,Punjab,48.83,45,45,50.4442,2667.3056,3519.32,48.8345,50.4442,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0584,Indian Institute of Engineering Science and Technology,Shibpur,West Bengal,48.7,46,46,51.5838,9968.655,2227.77,48.7046,51.5838,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-I-1357,University of Madras,Chennai,Tamil Nadu,48.66,47,47,61.3531,8266.4353,8820.25,48.6647,61.3531,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0006,"Andhra University, Visakhapatnam",Visakhapatnam,Andhra Pradesh,48.65,48,48,55.0425,5985.8454,4618.37,48.6548,55.0425,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,48.63,49,49,61.7834,2864.9165,992.18,48.6349,61.7834,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0272,Indian Institute of Science Education & Research Bhopal,Bhopal,Madhya Pradesh,48.57,50,50,63.783,9063.4966,638.1,48.575,63.783,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0064,Indian Institute of Technology Patna,Patna,Bihar,47.67,51,51,60.0437,257.6053,9416.41,47.6751,60.0437,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0262,Mahatma Gandhi University,Kottayam,Kerala,47.62,52,52,59.2734,7368.7752,554.24,47.6252,59.2734,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0473,S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,47.3,53,53,49.9339,768.4758,6010.48,47.3053,49.9339,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0098,Delhi Technological University,New Delhi,Delhi,46.98,54,54,54.5229,8265.9559,2525.82,46.9854,54.5229,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0334,Visvesvaraya National Institute of Technology,Nagpur,Maharashtra,46.98,54,54,49.8537,3168.9355,1115.39,46.9854,49.8537,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0222,JSS Academy of Higher Education and Research,Mysuru,Karnataka,46.95,56,56,63.0419,3966.707,418.85,46.9556,63.0419,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0435,Alagappa University,Karaikudi,Tamil Nadu,46.79,57,57,58.7127,3267.4551,6823.34,46.7957,58.7127,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0355,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,46.78,58,58,51.7337,8362.6455,218.85,46.7858,51.7337,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0025,National Institute of Technology Warangal,Warangal,Telangana,46.69,59,59,50.6131,470.3256,3825.01,46.6959,50.6131,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0523,King George`s Medical University,Lucknow,Uttar Pradesh,46.65,60,60,64.3927,2362.9757,578.1,46.656,64.3927,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0474,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,46.6,61,61,54.0634,64.8264,687.48,46.6061,54.0634,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0136,Gujarat University,Ahmedabad,Gujarat,46.57,62,62,64.7615,7081.2856,135.57,46.5762,64.7615,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0027,Osmania University,Hyderabad,Telangana,46.57,62,62,52.0428,1679.8651,6213.82,46.5762,52.0428,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0107,Jamia Hamdard,New Delhi,Delhi,46.46,64,64,57.8227,6269.756,648.1,46.4664,57.8227,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0253,Cochin University of Science and Technology,Cochin,Kerala,46.02,65,65,54.3729,6370.2852,7014.88,46.0265,54.3729,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0389,Banasthali Vidyapith,Banasthali,Rajasthan,45.89,66,66,54.1914,2383.5575,9910.48,45.8966,54.1914,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0052,Gauhati University,Guwahati,Assam,45.87,67,67,55.1719,583.5658,4010.48,45.8767,55.1719,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0329,Symbiosis International,Pune,Maharashtra,45.65,68,68,61.8318,5064.5272,1614.35,45.6568,61.8318,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,45.64,69,69,58.893,7864.6255,992.18,45.6469,58.893,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0331,Tata Institute of Social Sciences,Mumbai,Maharashtra,45.63,70,70,61.2012,3277.3372,288.71,45.637,61.2012,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0577,National Institute of Technology Durgapur,Durgapur,West Bengal,45.36,71,71,50.5134,2666.6656,159.9,45.3671,50.5134,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0410,Malaviya National Institute of Technology,Jaipur,Rajasthan,45.29,72,72,56.1335,1257.5758,385.57,45.2972,56.1335,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0056,Tezpur University,Tezpur,Assam,45.22,73,73,58.323,261.6552,1711.62,45.2273,58.323,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0458,Kalasalingam Academy of Research and Education,Srivilliputtur,Tamil Nadu,45.07,74,74,56.7421,8165.2073,611.62,45.0774,56.7421,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0446,Bharath Institute of Higher Education & Research,Chennai,Tamil Nadu,44.81,75,75,55.4024,4167.5967,945.57,44.8175,55.4024,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0196,University of Kashmir,Srinagar,Jammu and Kashmir,44.64,76,76,60.4919,5177.035,122.18,44.6476,60.4919,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0747,Chandigarh University,Mohali,Punjab,44.62,77,77,57.4814,2463.4075,4428.91,44.6277,57.4814,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0374,Dr. B. R. Ambedkar National Institute of Technology,Jalandhar,Punjab,44.53,78,78,54.3925,2364.1763,7614.35,44.5378,54.3925,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-I-1486,Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,44.4,79,79,64.8318,3561.1364,737.48,44.4079,64.8318,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-I-1110,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,44.19,80,80,65.1514,4563.2961,5614.88,44.198,65.1514,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0379,Lovely Professional University,Phagwara,Punjab,43.95,81,81,47.5527,5163.8765,9720.7,43.9581,47.5527,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0184,Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,43.93,82,82,50.053,5961.2762,712.73,43.9382,50.053,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0463,Madurai Kamaraj University,Madurai,Tamil Nadu,43.75,83,83,61.7124,7757.6848,4314.35,43.7583,61.7124,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0642,Shiv Nadar University,Dadri,Uttar Pradesh,43.6,84,84,59.5019,3763.5059,1413.28,43.6084,59.5019,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0376,Guru Nanak Dev University,Amritsar,Punjab,43.21,85,85,40.7828,6376.1153,7717.89,43.2185,40.7828,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-C-37013,PSG College of Technology,Coimbatore,Tamil Nadu,43.14,86,86,55.3718,1358.695,1743.26,43.1486,55.3718,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0369,Pondicherry University,Puducherry,Pondicherry,43.1,87,87,39.943,1072.4058,1817.89,43.1087,39.943,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0530,Motilal Nehru National Institute of Technology,Prayagraj,Uttar Pradesh,43.04,88,88,47.8628,4967.6854,7711.06,43.0488,47.8628,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-C-16604,Sri Sivasubramaniya Nadar College of Engineering,Kancheepuram,Tamil Nadu,42.94,89,89,53.3629,159.4253,639.9,42.9489,53.3629,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0448,Bharathidasan University,Tiruchirappalli,Tamil Nadu,42.79,90,90,54.7429,9253.6747,8018.85,42.799,54.7429,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0341,North Eastern Hill University,Shillong,Meghalaya,42.79,90,90,55.5316,3174.6151,6311.62,42.799,55.5316,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0037,Sri Venkateswara University,Tirupati,Andhra Pradesh,42.78,92,92,51.2119,8779.195,615.57,42.7892,51.2119,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0055,National Institute of Technology Silchar,Silchar,Assam,42.68,93,93,47.2832,3164.1852,846.85,42.6893,47.2832,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-N-10,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,42.56,94,94,63.3114,7763.136,924.24,42.5694,63.3114,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0251,Calicut University,Malappuram,Kerala,42.42,95,95,63.3216,6463.3254,772.88,42.4295,63.3216,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0318,Mumbai University,Mumbai,Maharashtra,41.79,96,96,49.5819,878.3547,787.48,41.7996,49.5819,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0589,Visva Bharati,Santiniketan,West Bengal,41.74,97,97,49.5126,1673.8136,586.22,41.7497,49.5126,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0149,Sardar Vallabhbhai National Institute of Technology,Surat,Gujarat,41.72,98,98,45.3129,2864.4857,37.48,41.7298,45.3129,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0099,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,41.43,99,99,48.1222,6464.2252,4521.15,41.4399,48.1222,https://www.nirfindia.org/Rankings/2021/OverallRanking.html
+2021,Overall,IR-O-U-0295,Datta Meghe Institute of Medical Sciences,Wardha,Maharashtra,41.1,100,100,64.061,3560.0766,191.46,41.101,64.061,https://www.nirfindia.org/Rankings/2021/OverallRanking.html

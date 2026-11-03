@@ -1,0 +1,31 @@
+﻿year,category,institution_id,institution_name,city,state,overall_score,rank,rank_original,tlr,rpc,go,oi,pr,source_url
+2022,Law,IR-L-U-0238,National Law School of India University,Bengaluru,Karnataka,78.0,1,1,80.0657,181.1673,3897.88,78.001,80.0657,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0111,National Law University,New Delhi,Delhi,73.96,2,2,88.5332,7974.7872,7776.58,73.962,88.5332,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-C-19328,Symbiosis Law School,Pune,Maharashtra,73.73,3,3,82.2717,2782.9475,4100.0,73.733,82.2717,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-N-18,Nalsar University of Law,Hyderabad,Telangana,73.05,4,4,86.2437,6674.4072,9570.05,73.054,86.2437,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0585,The West Bengal National University of Juridicial Sciences,Kolkata,West Bengal,70.72,5,5,79.0427,8784.8774,6962.3,70.725,79.0427,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0573,"Indian Institute of Technology, Kharagpur",Kharagpur,West Bengal,67.27,6,6,71.5768,5775.8763,1430.76,67.276,71.5768,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0108,"Jamia Millia Islamia, New Delhi",New Delhi,Delhi,63.62,7,7,60.8537,7084.5281,6943.21,63.627,60.8537,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0134,Gujarat National Law University,Gandhinagar,Gujarat,63.52,8,8,74.2927,6369.517,752.78,63.528,74.2927,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,63.47,9,9,69.6056,3066.1869,537.45,63.479,69.6056,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0414,"National Law University, Jodhpur",Jodhpur,Rajasthan,62.35,10,10,76.9823,3768.5865,8543.21,62.351,76.9823,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,61.55,11,11,80.5225,9564.8974,1218.16,61.5511,80.5225,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,60.11,12,12,55.7132,2992.8851,8845.82,60.1112,55.7132,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0379,Lovely Professional University,Phagwara,Punjab,57.57,13,13,74.0136,4352.0572,1222.79,57.5713,74.0136,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,55.41,14,14,64.9961,3254.2648,2018.16,55.4114,64.9961,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0285,"National Law Institute University, Bhopal",Bhopal,Madhya Pradesh,54.28,15,15,60.1124,4768.406,4834.24,54.2815,60.1124,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0217,Christ University,Bengaluru,Karnataka,53.56,16,16,55.0328,9562.4565,4250.59,53.5616,55.0328,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0511,"Dr. Ram Manohar Lohiya National Law University, Lucknow",Lucknow,Uttar Pradesh,53.23,17,17,60.042,8576.2249,448.27,53.2317,60.042,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0386,"The Rajiv Gandhi National University of Law, Patiala",Patiala,Punjab,52.73,18,18,62.182,9560.7371,8150.59,52.7318,62.182,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0476,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,51.87,19,19,63.2234,361.8353,256.97,51.8719,63.2234,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,51.66,20,20,53.0026,6468.2343,4250.59,51.662,53.0026,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0564,University of Petroleum and Energy Studies,Dehradun,Uttarakhand,50.18,21,21,54.992,443.577,572.78,50.1821,54.992,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0600,"National University of Study & Research in Law, Ranchi",Ranchi,Jharkhand,49.84,22,22,64.8121,6155.676,556.97,49.8422,64.8121,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0099,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,49.43,23,23,56.5534,5056.1953,522.79,49.4323,56.5534,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0677,National Law University and Judicial Academy,Kamrup,Assam,49.27,24,24,74.522,745.9763,7312.93,49.2724,74.522,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0358,National Law University,Cuttack,Odisha,48.81,25,25,62.067,3045.0765,7350.59,48.8125,62.067,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-C-22215,"Army Institute of Law, Mohali",Mohali,Punjab,47.68,26,26,61.0,9454.2068,8926.97,47.6826,61.0,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0155,"Amity University Haryana, Gurgaon",Gurugram,Haryana,46.93,27,27,71.1214,5939.6356,836.97,46.9327,71.1214,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-C-6601,"Sikkim Government Law College, Burtuk",Gangtok,Sikkim,45.92,28,28,61.28,61.6253,146.97,45.9228,61.28,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0103,Indian Law Institute,New Delhi,Delhi,45.4,29,29,45.5813,9955.3657,3754.87,45.4029,45.5813,https://www.nirfindia.org/Rankings/2022/LawRanking.html
+2022,Law,IR-L-U-0078,Panjab University,Chandigarh,Chandigarh,45.21,30,30,41.3033,8455.1667,4030.76,45.213,41.3033,https://www.nirfindia.org/Rankings/2022/LawRanking.html
