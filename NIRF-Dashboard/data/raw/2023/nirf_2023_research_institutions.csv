@@ -1,51 +1,51 @@
 ﻿year,category,institution_id,institution_name,city,state,overall_score,rank,rank_original,tlr,rpc,go,oi,pr,source_url
-2023,Research Institutions,IR-R-U-0220,Indian Institute of Science,Bengaluru,Karnataka,86.22,1,1,93.559,6875.1959,23100.0,86.221,93.559,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0456,Indian Institute of Technology Madras,Chennai,Tamil Nadu,84.01,2,2,85.579,3878.6563,5991.39,84.012,85.579,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-I-1074,Indian Institute of Technology Delhi,New Delhi,Delhi,82.07,3,3,79.0891,878.937,3282.14,82.073,79.0891,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0306,Indian Institute of Technology Bombay,Mumbai,Maharashtra,79.19,4,4,78.8587,7179.2458,7674.85,79.194,78.8587,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,71.63,5,5,70.1876,8877.5157,4462.74,71.635,70.1876,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-I-1075,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,71.33,6,6,72.1372,3777.826,2464.04,71.336,72.1372,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0560,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,66.52,7,7,69.2967,7572.4962,8046.32,66.527,69.2967,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-N-15,"All India Institute of Medical Sciences, Delhi",New Delhi,Delhi,66.13,8,8,75.3767,6641.9972,7275.52,66.138,75.3767,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0053,Indian Institute of Technology Guwahati,Guwahati,Assam,64.68,9,9,68.9468,2468.0758,3040.92,64.689,68.9468,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0330,Tata Institute of Fundamental Research,Mumbai,Maharashtra,62.66,10,10,70.646,4258.3666,4050.34,62.661,70.646,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0490,Vellore Institute of Technology,Vellore,Tamil Nadu,62.41,11,11,53.2572,1170.1062,5545.27,62.4111,53.2572,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0713,Academy of Scientific & Innovative Research,Ghaziabad,Uttar Pradesh,59.85,12,12,62.9667,3977.6748,63.89,59.8512,62.9667,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0439,Anna University,Chennai,Tamil Nadu,59.65,13,13,57.0361,6359.965,2970.35,59.6513,57.0361,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0013,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,59.41,14,14,63.7055,4762.0759,353.5,59.4114,63.7055,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0304,Homi Bhabha National Institute,Mumbai,Maharashtra,58.88,15,15,55.1566,7770.1654,3528.42,58.8815,55.1566,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,58.14,16,16,48.0651,9687.9661,5043.87,58.1416,48.0651,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0120,University of Delhi,Delhi,Delhi,57.45,17,17,51.9956,4575.3263,9834.6,57.4517,51.9956,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0109,Jawaharlal Nehru University,New Delhi,Delhi,57.33,18,18,50.0642,5688.7173,6444.41,57.3318,50.0642,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0575,Jadavpur University,Kolkata,West Bengal,56.69,19,19,54.3848,5584.2356,7932.78,56.6919,54.3848,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0108,"Jamia Millia Islamia,New Delhi",New Delhi,Delhi,55.86,20,20,50.7147,2680.0683,4121.17,55.862,50.7147,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0273,Indian Institute of Technology Indore,Indore,Madhya Pradesh,53.71,21,21,62.8049,258.656,8123.55,53.7121,62.8049,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0467,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,53.63,22,22,51.8442,7864.0068,3356.19,53.6322,51.8442,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,53.58,23,23,44.595,82.356,427.29,53.5823,44.595,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0205,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,52.8,24,24,57.9149,2058.8858,230.88,52.8024,57.9149,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0234,Manipal Academy of Higher Education-Manipal,Manipal,Karnataka,52.48,25,25,50.5951,3663.9466,1024.95,52.4825,50.5951,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0391,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,52.32,26,26,49.9849,9865.8359,1632.49,52.3226,49.9849,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0305,Indian Institute of Science Education & Research Pune,Pune,Maharashtra,52.22,27,27,56.8344,5256.2363,5741.97,52.2227,56.8344,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0042,University of Hyderabad,Hyderabad,Telangana,51.85,28,28,49.1842,76.0366,5826.3,51.8528,49.1842,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0357,National Institute of Technology Rourkela,Rourkela,Odisha,51.32,29,29,54.3946,7364.756,1120.21,51.3229,54.3946,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0224,Jawaharlal Nehru Centre for Advanced Scientific Research,Bengaluru,Karnataka,51.08,30,30,64.0741,8648.9759,3135.81,51.083,64.0741,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0139,Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,50.84,31,31,56.3939,2060.1469,1432.2,50.8431,56.3939,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0436,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,50.83,32,32,47.8037,1664.9872,4750.9,50.8332,47.8037,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0078,Panjab University,Chandigarh,Chandigarh,50.65,33,33,41.0552,1768.1859,9230.58,50.6533,41.0552,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),Patiala,Punjab,50.06,34,34,46.3454,5562.2464,59.49,50.0634,46.3454,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0570,Calcutta University,Kolkata,West Bengal,49.76,35,35,43.9235,6987.0653,131.62,49.7635,43.9235,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,49.54,36,36,53.4844,2862.7967,389.24,49.5436,53.4844,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,48.82,37,37,49.0846,9258.6755,8827.13,48.8237,49.0846,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0447,Bharathiar University,Coimbatore,Tamil Nadu,48.72,38,38,51.6336,5067.5751,9835.67,48.7238,51.6336,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0473,S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,48.58,39,39,41.455,1061.9664,6122.65,48.5839,41.455,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0572,Indian Institute of Science Education & Research Kolkata,Mohanpur,West Bengal,46.95,40,40,51.6938,8556.4055,5829.51,46.954,51.6938,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0237,"National Institute of Technology Karnataka, Surathkal",Surathkal,Karnataka,46.89,41,41,50.6633,3660.9359,2335.67,46.8941,50.6633,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0379,Lovely Professional University,Phagwara,Punjab,44.87,42,42,32.6752,354.7568,3416.8,44.8742,32.6752,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0435,Alagappa University,Karaikudi,Tamil Nadu,44.06,43,43,40.3435,4664.0852,1332.92,44.0643,40.3435,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,43.98,44,44,29.9437,9072.398,1311.44,43.9844,29.9437,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0497,Amity University,Gautam Budh Nagar,Uttar Pradesh,43.89,45,45,36.1549,854.4464,659.74,43.8945,36.1549,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0378,Indian Institute of Technology Ropar,Rupnagar,Punjab,43.65,46,46,47.073,4654.7866,4427.94,43.6546,47.073,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0410,Malaviya National Institute of Technology,Jaipur,Rajasthan,43.37,47,47,46.8936,2857.816,937.7,43.3747,46.8936,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0236,"National Institute of Mental Health & Neuro Sciences, Bangalore",Bangalore,Karnataka,43.35,48,48,52.2034,835.9166,6436.33,43.3548,52.2034,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,43.21,49,49,38.1936,1260.4473,3514.86,43.2149,38.1936,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
-2023,Research Institutions,IR-R-U-0377,"Indian Institute of Science Education & Research, Mohali",Mohali,Punjab,43.15,50,50,43.6027,5955.1672,3435.27,43.155,43.6027,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0220,Indian Institute of Science,Bengaluru,Karnataka,86.22,1,1,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0456,Indian Institute of Technology Madras,Chennai,Tamil Nadu,84.01,2,2,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-I-1074,Indian Institute of Technology Delhi,New Delhi,Delhi,82.07,3,3,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0306,Indian Institute of Technology Bombay,Mumbai,Maharashtra,79.19,4,4,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,71.63,5,5,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-I-1075,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,71.33,6,6,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0560,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,66.52,7,7,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-N-15,"All India Institute of Medical Sciences, Delhi",New Delhi,Delhi,66.13,8,8,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0053,Indian Institute of Technology Guwahati,Guwahati,Assam,64.68,9,9,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0330,Tata Institute of Fundamental Research,Mumbai,Maharashtra,62.66,10,10,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0490,Vellore Institute of Technology,Vellore,Tamil Nadu,62.41,11,11,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0713,Academy of Scientific & Innovative Research,Ghaziabad,Uttar Pradesh,59.85,12,12,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0439,Anna University,Chennai,Tamil Nadu,59.65,13,13,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0013,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,59.41,14,14,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0304,Homi Bhabha National Institute,Mumbai,Maharashtra,58.88,15,15,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,58.14,16,16,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0120,University of Delhi,Delhi,Delhi,57.45,17,17,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0109,Jawaharlal Nehru University,New Delhi,Delhi,57.33,18,18,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0575,Jadavpur University,Kolkata,West Bengal,56.69,19,19,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0108,"Jamia Millia Islamia,New Delhi",New Delhi,Delhi,55.86,20,20,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0273,Indian Institute of Technology Indore,Indore,Madhya Pradesh,53.71,21,21,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0467,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,53.63,22,22,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,53.58,23,23,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0205,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,52.8,24,24,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0234,Manipal Academy of Higher Education-Manipal,Manipal,Karnataka,52.48,25,25,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0391,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,52.32,26,26,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0305,Indian Institute of Science Education & Research Pune,Pune,Maharashtra,52.22,27,27,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0042,University of Hyderabad,Hyderabad,Telangana,51.85,28,28,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0357,National Institute of Technology Rourkela,Rourkela,Odisha,51.32,29,29,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0224,Jawaharlal Nehru Centre for Advanced Scientific Research,Bengaluru,Karnataka,51.08,30,30,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0139,Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,50.84,31,31,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0436,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,50.83,32,32,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0078,Panjab University,Chandigarh,Chandigarh,50.65,33,33,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),Patiala,Punjab,50.06,34,34,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0570,Calcutta University,Kolkata,West Bengal,49.76,35,35,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,49.54,36,36,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,48.82,37,37,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0447,Bharathiar University,Coimbatore,Tamil Nadu,48.72,38,38,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0473,S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,48.58,39,39,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0572,Indian Institute of Science Education & Research Kolkata,Mohanpur,West Bengal,46.95,40,40,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0237,"National Institute of Technology Karnataka, Surathkal",Surathkal,Karnataka,46.89,41,41,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0379,Lovely Professional University,Phagwara,Punjab,44.87,42,42,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0435,Alagappa University,Karaikudi,Tamil Nadu,44.06,43,43,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,43.98,44,44,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0497,Amity University,Gautam Budh Nagar,Uttar Pradesh,43.89,45,45,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0378,Indian Institute of Technology Ropar,Rupnagar,Punjab,43.65,46,46,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0410,Malaviya National Institute of Technology,Jaipur,Rajasthan,43.37,47,47,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0236,"National Institute of Mental Health & Neuro Sciences, Bangalore",Bangalore,Karnataka,43.35,48,48,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,43.21,49,49,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html
+2023,Research Institutions,IR-R-U-0377,"Indian Institute of Science Education & Research, Mohali",Mohali,Punjab,43.15,50,50,,,,,,https://www.nirfindia.org/Rankings/2023/ResearchRanking.html

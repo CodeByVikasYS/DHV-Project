@@ -1,101 +1,101 @@
 ﻿year,category,institution_id,institution_name,city,state,overall_score,rank,rank_original,tlr,rpc,go,oi,pr,source_url
-2020,Universities,IR-O-U-0220,Indian Institute of Science,Bengaluru,Karnataka,84.18,1,1,82.2292,1682.8952,84100.0,84.181,82.2292,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0109,Jawaharlal Nehru University,New Delhi,Delhi,70.16,2,2,74.9844,80100.0075,1067.24,70.162,74.9844,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,63.15,3,3,70.9144,8985.6558,7653.99,63.153,70.9144,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0436,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,62.27,4,4,69.6552,1173.6665,8344.33,62.274,69.6552,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0575,Jadavpur University,Kolkata,West Bengal,61.99,5,5,53.3852,9690.3948,6771.44,61.995,53.3852,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0042,University of Hyderabad,Hyderabad,Telangana,61.7,6,6,71.1542,9381.1854,158.32,61.706,71.1542,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0570,Calcutta University,Kolkata,West Bengal,61.53,7,7,59.2648,5891.0361,6647.99,61.537,59.2648,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0234,Manipal Academy of Higher Education,Manipal,Karnataka,61.51,8,8,75.4442,6275.3666,2143.95,61.518,75.4442,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0323,Savitribai Phule Pune University,Pune,Maharashtra,61.13,9,9,67.6645,4885.3656,2244.99,61.139,67.6645,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0108,Jamia Millia Islamia,New Delhi,Delhi,61.07,10,10,71.3538,3088.5273,531.6,61.071,71.3538,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0120,University of Delhi,Delhi,Delhi,60.1,11,11,50.1855,4085.216,3753.44,60.1011,50.1855,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0439,Anna University,Chennai,Tamil Nadu,58.71,12,12,56.0048,6177.4952,3765.89,58.7112,56.0048,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0447,Bharathiar University,Coimbatore,Tamil Nadu,58.3,13,13,67.4746,4775.5852,8237.18,58.3013,67.4746,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0304,Homi Bhabha National Institute,Mumbai,Maharashtra,56.04,14,14,82.403,4469.8348,7233.54,56.0414,82.403,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0391,Birla Institute of Technology & Science,Pilani,Rajasthan,55.79,15,15,62.764,7272.486,9741.37,55.7915,62.764,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0490,Vellore Institute of Technology,Vellore,Tamil Nadu,55.22,16,16,48.7154,8267.2658,1549.0,55.2216,48.7154,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,54.3,17,17,70.974,7855.7057,3938.99,54.3017,70.974,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,54.1,18,18,51.9948,275.3346,844.07,54.1018,51.9948,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0006,Andhra University,Visakhapatnam,Andhra Pradesh,53.82,19,19,63.7725,9986.1056,8639.82,53.8219,63.7725,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,53.1,20,20,72.4325,7371.1363,7830.4,53.102,72.4325,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0107,Jamia Hamdard,New Delhi,Delhi,52.6,21,21,69.7928,4873.1661,7123.16,52.6021,69.7928,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-I-1357,University of Madras,Chennai,Tamil Nadu,52.55,22,22,65.3733,1668.2155,2338.3,52.5522,65.3733,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0260,Kerala University,Thiruvananthapuram,Kerala,52.35,23,23,73.7619,386.0051,5621.54,52.3523,73.7619,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,52.33,24,24,67.8222,5972.2576,1631.3,52.3324,67.8222,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0476,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,52.22,25,25,63.8635,9165.4657,7634.2,52.2225,63.8635,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0078,Panjab University,Chandigarh,Chandigarh,51.85,26,26,50.0842,8371.2754,9042.39,51.8526,50.0842,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0235,Mysore University,Mysuru,Karnataka,51.84,27,27,62.9919,5592.5154,4531.3,51.8427,62.9919,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-I-1486,Sri Ramachandra Institute of Higher Education And Research,Chennai,Tamil Nadu,51.32,28,28,76.7116,9267.486,9236.4,51.3228,76.7116,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0027,Osmania University,Hyderabad,Telangana,51.15,29,29,55.9525,5686.4255,2239.0,51.1529,55.9525,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0262,Mahatma Gandhi University,Kottayam,Kerala,50.93,30,30,69.153,3271.2146,6021.87,50.933,69.153,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-I-1480,Thapar Institute of Engineering & Technology,Patiala,Punjab,50.65,31,31,56.9938,7965.7555,7131.88,50.6531,56.9938,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0523,King George`s Medical University,Lucknow,Uttar Pradesh,50.45,32,32,77.9426,4761.2244,8424.1,50.4532,77.9426,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0222,JSS Academy of Higher Education and Research,Mysuru,Karnataka,50.2,33,33,70.6818,7466.6469,7830.7,50.2033,70.6818,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0331,Tata Institute of Social Sciences,Mumbai,Maharashtra,50.1,34,34,64.3811,4080.0175,5438.16,50.1034,64.3811,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0473,S. R. M. Institute of Science and Technology,Chennai,Tamil Nadu,50.07,35,35,56.4834,4367.4358,5834.53,50.0735,56.4834,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0435,Alagappa University,Karaikudi,Tamil Nadu,49.22,36,36,63.6622,6968.3651,6344.76,49.2236,63.6622,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0497,Amity University Noida,Gautam Budh Nagar,Uttar Pradesh,49.02,37,37,50.7937,4866.4262,5230.1,49.0237,50.7937,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0037,Sri Venkateswara University,Tirupati,Andhra Pradesh,48.84,38,38,61.8321,5376.2448,8137.0,48.8438,61.8321,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0056,Tezpur University,Tezpur,Assam,48.77,39,39,62.033,3463.2349,2134.88,48.7739,62.033,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0474,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,48.77,39,39,60.753,4165.2364,3119.47,48.7739,60.753,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0020,Koneru Lakshmaiah Education Foundation University,Vaddeswaram,Andhra Pradesh,48.73,41,41,65.5424,5264.0055,6633.54,48.7341,65.5424,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,48.56,42,42,65.8024,2964.8766,5119.11,48.5642,65.8024,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0329,Symbiosis International,Pune,Maharashtra,48.35,43,43,70.0514,1163.3572,5731.82,48.3543,70.0514,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0136,Gujarat University,Ahmedabad,Gujarat,48.21,44,44,68.0513,4083.9055,6714.18,48.2144,68.0513,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0098,Delhi Technological University,New Delhi,Delhi,48.06,45,45,57.7128,8666.9154,6232.53,48.0645,57.7128,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-I-1110,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,47.92,46,46,75.209,7163.6863,6433.54,47.9246,75.209,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0052,Gauhati University,Guwahati,Assam,47.1,47,47,59.8717,481.0955,8722.2,47.1047,59.8717,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0196,University of Kashmir,Srinagar,Jammu and Kashmir,46.99,48,48,60.2518,5179.1449,4725.82,46.9948,60.2518,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0341,North Eastern Hill University,Shillong,Meghalaya,46.88,49,49,65.0315,1975.6053,4023.48,46.8849,65.0315,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0589,Visva Bharati,Santiniketan,West Bengal,46.84,50,50,58.4127,2975.584,8419.3,46.845,58.4127,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0376,Guru Nanak Dev University,Amritsar,Punjab,46.58,51,51,44.313,677.1253,435.48,46.5851,44.313,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0195,University of Jammu,Jammu,Jammu and Kashmir,46.55,52,52,64.7816,3372.5345,6331.47,46.5552,64.7816,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0448,Bharathidasan University,Tiruchirappalli,Tamil Nadu,46.41,53,53,63.4928,3850.9246,5740.09,46.4153,63.4928,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0251,Calicut University,Malappuram,Kerala,46.37,54,54,66.1817,3969.3053,1921.21,46.3754,66.1817,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0389,Banasthali Vidyapith,Banasthali,Rajasthan,46.32,55,55,52.7212,8285.2775,8720.18,46.3255,52.7212,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0642,Shiv Nadar University,Dadri,Uttar Pradesh,46.11,56,56,68.1116,4062.826,5221.54,46.1156,68.1116,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-N-10,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,46.01,57,57,66.8712,4464.1362,4431.47,46.0157,66.8712,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0369,Pondicherry University,Puducherry,Pondicherry,45.82,58,58,45.9728,8573.1458,5228.88,45.8258,45.9728,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0446,Bharath Institute of Higher Education & Research,Chennai,Tamil Nadu,45.67,59,59,59.4518,5666.9666,8921.87,45.6759,59.4518,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0463,Madurai Kamaraj University,Madurai,Tamil Nadu,45.58,60,60,63.8826,1456.9042,6229.39,45.586,63.8826,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0295,Datta Meghe Institute of Medical Sciences,Wardha,Maharashtra,45.24,61,61,73.227,1360.7959,6830.0,45.2461,73.227,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0253,Cochin University of Science and Technology,Cochin,Kerala,45.02,62,62,50.1427,7867.8451,3629.39,45.0262,50.1427,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-I-1361,Bharati Vidyapeeth,Pune,Maharashtra,44.84,63,63,61.1312,965.7358,1639.0,44.8463,61.1312,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0383,Punjabi University,Patiala,Punjab,44.07,64,64,69.3621,6550.814,3425.82,44.0764,69.3621,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0318,Mumbai University,Mumbai,Maharashtra,44.0,65,65,48.082,8477.9753,6123.79,44.0065,48.082,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,43.5,66,66,56.2528,7156.0452,3315.66,43.5066,56.2528,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0345,Mizoram University,Aizawl,Mizoram,43.49,67,67,66.001,8367.0249,9020.52,43.4967,66.001,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0215,Bangalore University,Bangalore,Karnataka,43.33,68,68,65.5413,357.9957,1824.4,43.3368,65.5413,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0298,Dr. Babasaheb Ambedkar Marathwada University,Aurangabad,Maharashtra,43.12,69,69,47.2713,9987.0552,8120.52,43.1269,47.2713,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0225,KLE Academy of Higher Education and Research,Belagavi,Karnataka,43.1,70,70,68.299,1352.9664,6528.2,43.107,68.299,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0011,Gandhi Institute of Technology and Management,Visakhapatnam,Andhra Pradesh,42.79,71,71,53.8713,6168.7956,8231.11,42.7971,53.8713,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0458,Kalasalingam Academy of Research and Higher Education,Srivilliputtur,Tamil Nadu,42.57,72,72,56.1717,2360.4863,6020.87,42.5772,56.1717,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0232,Kuvempu University,Shimoga,Karnataka,42.45,73,73,57.5713,571.825,2918.74,42.4573,57.5713,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0239,NITTE,Mangaluru,Karnataka,42.19,74,74,68.716,6352.5467,9322.85,42.1974,68.716,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0035,Sri Sathya Sai Institute of Higher Learning,Anantapur,Andhra Pradesh,42.08,75,75,61.642,8261.4772,9631.47,42.0875,61.642,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-I-1280,Maharshi Dayanand University,Rohtak,Haryana,41.95,76,76,50.7915,5971.6751,2425.82,41.9576,50.7915,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0321,Padmashree Dr. D. Y. Patil Vidyapeeth,Mumbai,Maharashtra,41.74,77,77,70.133,7960.4249,6725.11,41.7477,70.133,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0014,International Institute of Information Technology Hyderabad,Hyderabad,Telangana,41.69,78,78,44.7231,52.2954,7330.4,41.6978,44.7231,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0379,Lovely Professional University,Phagwara,Punjab,41.69,78,78,57.2816,4462.6167,682.87,41.6978,57.2816,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0249,Visvesvaraya Technological University,Belgaum,Karnataka,41.63,80,80,60.512,9060.0049,902.18,41.638,60.512,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0121,Goa University,Goa,Goa,41.37,81,81,55.9814,1465.2853,19.82,41.3781,55.9814,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0507,Dayalbagh Educational Institute,Agra,Uttar Pradesh,41.21,82,82,58.773,6764.9564,1730.7,41.2182,58.773,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0470,Periyar University,Salem,Tamil Nadu,41.09,83,83,50.922,4559.025,7428.09,41.0983,50.922,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0051,Dibrugarh University,Dibrugarh,Assam,41.05,84,84,61.808,9563.0049,9922.2,41.0584,61.808,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0223,Jain University,Bengluru,Karnataka,41.03,85,85,43.2916,7572.526,4424.74,41.0385,43.2916,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0250,Yenepoya University,Mangaluru,Karnataka,40.99,86,86,70.108,3145.0266,18.74,40.9986,70.108,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0372,Central University of Punjab,Bathinda,Punjab,40.93,87,87,57.4916,9050.8962,3921.87,40.9387,57.4916,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0370,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,Puducherry,Pondicherry,40.92,88,88,65.617,7350.8468,8118.74,40.9288,65.617,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0576,Kalyani University,Kalyani,West Bengal,40.91,89,89,39.8319,6382.3446,5419.47,40.9189,39.8319,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-C-23033,Krishna Institute of Medical Sciences,Karad,Maharashtra,40.87,90,90,68.653,9556.496,18.0,40.879,68.653,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0453,The Gandhigram Rural Institute,Gandhigram,Tamil Nadu,40.65,91,91,55.5215,4061.065,3721.21,40.6591,55.5215,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0569,The University of Burdwan,Bardhaman,West Bengal,40.55,92,92,50.2818,4966.3746,6919.82,40.5592,50.2818,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0168,Maharishi Markandeshwar,Ambala,Haryana,40.49,93,93,53.2711,8163.4456,2826.45,40.4993,53.2711,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0162,Guru Jambheshwar University of Science and Technology,Hisar,Haryana,40.43,94,94,56.9014,358.7446,7927.21,40.4394,56.9014,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0099,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,40.24,95,95,52.2319,9264.3252,874.53,40.2495,52.2319,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0366,Utkal University,Bhubaneswar,Odisha,40.05,96,96,42.8911,5077.1244,1339.0,40.0596,42.8911,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0555,Graphic Era University,Dehradun,Uttarakhand,40.04,97,97,55.598,3661.0259,7826.73,40.0497,55.598,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0451,Chettinad Academy of Research and Education,Kanchipuram District,Tamil Nadu,39.97,98,98,70.685,1648.4556,6318.74,39.9798,70.685,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0164,Kurukshetra University,Kurukshetra,Haryana,39.79,99,99,49.899,9568.1548,8833.21,39.7999,49.899,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
-2020,Universities,IR-O-U-0043,"Vignan's Foundation for Science, Technology & Research",Guntur,Andhra Pradesh,39.71,100,100,57.398,3660.6058,1120.52,39.711,57.398,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0220,Indian Institute of Science,Bengaluru,Karnataka,84.18,1,1,82.2292,92.16,82.89,84.181,82.2292,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0109,Jawaharlal Nehru University,New Delhi,Delhi,70.16,2,2,74.9844,44.8,100.0,70.162,74.9844,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,63.15,3,3,70.9144,44.89,85.65,63.153,70.9144,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0436,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,62.27,4,4,69.6552,52.11,73.66,62.274,69.6552,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0575,Jadavpur University,Kolkata,West Bengal,61.99,5,5,53.3852,52.96,90.39,61.995,53.3852,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0042,University of Hyderabad,Hyderabad,Telangana,61.7,6,6,71.1542,42.93,81.18,61.706,71.1542,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0570,Calcutta University,Kolkata,West Bengal,61.53,7,7,59.2648,48.58,91.03,61.537,59.2648,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0234,Manipal Academy of Higher Education,Manipal,Karnataka,61.51,8,8,75.4442,42.62,75.36,61.518,75.4442,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0323,Savitribai Phule Pune University,Pune,Maharashtra,61.13,9,9,67.6645,45.48,85.36,61.139,67.6645,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0108,Jamia Millia Islamia,New Delhi,Delhi,61.07,10,10,71.3538,38.3,88.52,61.071,71.3538,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0120,University of Delhi,Delhi,Delhi,60.1,11,11,50.1855,55.4,85.21,60.1011,50.1855,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0439,Anna University,Chennai,Tamil Nadu,58.71,12,12,56.0048,48.61,77.49,58.7112,56.0048,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0447,Bharathiar University,Coimbatore,Tamil Nadu,58.3,13,13,67.4746,46.47,75.58,58.3013,67.4746,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0304,Homi Bhabha National Institute,Mumbai,Maharashtra,56.04,14,14,82.403,30.44,69.83,56.0414,82.403,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0391,Birla Institute of Technology & Science,Pilani,Rajasthan,55.79,15,15,62.764,40.72,72.48,55.7915,62.764,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0490,Vellore Institute of Technology,Vellore,Tamil Nadu,55.22,16,16,48.7154,54.82,67.26,55.2216,48.7154,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,54.3,17,17,70.974,40.78,55.7,54.3017,70.974,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,54.1,18,18,51.9948,48.02,75.33,54.1018,51.9948,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0006,Andhra University,Visakhapatnam,Andhra Pradesh,53.82,19,19,63.7725,25.99,86.1,53.8219,63.7725,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,53.1,20,20,72.4325,25.73,71.13,53.102,72.4325,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0107,Jamia Hamdard,New Delhi,Delhi,52.6,21,21,69.7928,28.48,73.16,52.6021,69.7928,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-I-1357,University of Madras,Chennai,Tamil Nadu,52.55,22,22,65.3733,33.16,68.21,52.5522,65.3733,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0260,Kerala University,Thiruvananthapuram,Kerala,52.35,23,23,73.7619,19.03,86.0,52.3523,73.7619,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,52.33,24,24,67.8222,22.59,72.25,52.3324,67.8222,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0476,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,52.22,25,25,63.8635,35.91,65.46,52.2225,63.8635,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0078,Panjab University,Chandigarh,Chandigarh,51.85,26,26,50.0842,42.83,71.27,51.8526,50.0842,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0235,Mysore University,Mysuru,Karnataka,51.84,27,27,62.9919,19.55,92.51,51.8427,62.9919,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-I-1486,Sri Ramachandra Institute of Higher Education And Research,Chennai,Tamil Nadu,51.32,28,28,76.7116,16.92,67.48,51.3228,76.7116,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0027,Osmania University,Hyderabad,Telangana,51.15,29,29,55.9525,25.56,86.42,51.1529,55.9525,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0262,Mahatma Gandhi University,Kottayam,Kerala,50.93,30,30,69.153,30.32,71.21,50.933,69.153,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-I-1480,Thapar Institute of Engineering & Technology,Patiala,Punjab,50.65,31,31,56.9938,38.79,65.75,50.6531,56.9938,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0523,King George`s Medical University,Lucknow,Uttar Pradesh,50.45,32,32,77.9426,26.47,61.22,50.4532,77.9426,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0222,JSS Academy of Higher Education and Research,Mysuru,Karnataka,50.2,33,33,70.6818,18.74,66.64,50.2033,70.6818,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0331,Tata Institute of Social Sciences,Mumbai,Maharashtra,50.1,34,34,64.3811,11.4,80.01,50.1034,64.3811,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0473,S. R. M. Institute of Science and Technology,Chennai,Tamil Nadu,50.07,35,35,56.4834,34.43,67.43,50.0735,56.4834,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0435,Alagappa University,Karaikudi,Tamil Nadu,49.22,36,36,63.6622,22.69,68.36,49.2236,63.6622,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0497,Amity University Noida,Gautam Budh Nagar,Uttar Pradesh,49.02,37,37,50.7937,37.48,66.42,49.0237,50.7937,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0037,Sri Venkateswara University,Tirupati,Andhra Pradesh,48.84,38,38,61.8321,21.53,76.24,48.8438,61.8321,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0056,Tezpur University,Tezpur,Assam,48.77,39,39,62.033,30.34,63.23,48.7739,62.033,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0474,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,48.77,39,39,60.753,30.41,65.23,48.7739,60.753,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0020,Koneru Lakshmaiah Education Foundation University,Vaddeswaram,Andhra Pradesh,48.73,41,41,65.5424,24.52,64.0,48.7341,65.5424,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,48.56,42,42,65.8024,24.29,64.87,48.5642,65.8024,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0329,Symbiosis International,Pune,Maharashtra,48.35,43,43,70.0514,14.11,63.35,48.3543,70.0514,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0136,Gujarat University,Ahmedabad,Gujarat,48.21,44,44,68.0513,13.4,83.9,48.2144,68.0513,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0098,Delhi Technological University,New Delhi,Delhi,48.06,45,45,57.7128,28.86,66.91,48.0645,57.7128,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-I-1110,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,47.92,46,46,75.209,9.71,63.68,47.9246,75.209,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0052,Gauhati University,Guwahati,Assam,47.1,47,47,59.8717,17.04,81.09,47.1047,59.8717,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0196,University of Kashmir,Srinagar,Jammu and Kashmir,46.99,48,48,60.2518,18.51,79.14,46.9948,60.2518,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0341,North Eastern Hill University,Shillong,Meghalaya,46.88,49,49,65.0315,15.19,75.6,46.8849,65.0315,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0589,Visva Bharati,Santiniketan,West Bengal,46.84,50,50,58.4127,27.29,75.58,46.845,58.4127,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0376,Guru Nanak Dev University,Amritsar,Punjab,46.58,51,51,44.313,30.06,77.12,46.5851,44.313,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0195,University of Jammu,Jammu,Jammu and Kashmir,46.55,52,52,64.7816,16.33,72.53,46.5552,64.7816,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0448,Bharathidasan University,Tiruchirappalli,Tamil Nadu,46.41,53,53,63.4928,28.38,50.92,46.4153,63.4928,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0251,Calicut University,Malappuram,Kerala,46.37,54,54,66.1817,17.39,69.3,46.3754,66.1817,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0389,Banasthali Vidyapith,Banasthali,Rajasthan,46.32,55,55,52.7212,12.82,85.27,46.3255,52.7212,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0642,Shiv Nadar University,Dadri,Uttar Pradesh,46.11,56,56,68.1116,16.4,62.82,46.1156,68.1116,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-N-10,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,46.01,57,57,66.8712,12.44,64.13,46.0157,66.8712,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0369,Pondicherry University,Puducherry,Pondicherry,45.82,58,58,45.9728,28.85,73.14,45.8258,45.9728,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0446,Bharath Institute of Higher Education & Research,Chennai,Tamil Nadu,45.67,59,59,59.4518,18.56,66.96,45.6759,59.4518,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0463,Madurai Kamaraj University,Madurai,Tamil Nadu,45.58,60,60,63.8826,26.14,56.9,45.586,63.8826,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0295,Datta Meghe Institute of Medical Sciences,Wardha,Maharashtra,45.24,61,61,73.227,7.13,60.79,45.2461,73.227,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0253,Cochin University of Science and Technology,Cochin,Kerala,45.02,62,62,50.1427,27.78,67.84,45.0262,50.1427,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-I-1361,Bharati Vidyapeeth,Pune,Maharashtra,44.84,63,63,61.1312,12.09,65.73,44.8463,61.1312,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0383,Punjabi University,Patiala,Punjab,44.07,64,64,69.3621,21.65,50.81,44.0764,69.3621,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0318,Mumbai University,Mumbai,Maharashtra,44.0,65,65,48.082,20.84,77.97,44.0065,48.082,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,43.5,66,66,56.2528,28.71,56.04,43.5066,56.2528,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0345,Mizoram University,Aizawl,Mizoram,43.49,67,67,66.001,10.83,67.02,43.4967,66.001,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0215,Bangalore University,Bangalore,Karnataka,43.33,68,68,65.5413,13.03,57.99,43.3368,65.5413,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0298,Dr. Babasaheb Ambedkar Marathwada University,Aurangabad,Maharashtra,43.12,69,69,47.2713,13.99,87.05,43.1269,47.2713,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0225,KLE Academy of Higher Education and Research,Belagavi,Karnataka,43.1,70,70,68.299,9.13,52.96,43.107,68.299,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0011,Gandhi Institute of Technology and Management,Visakhapatnam,Andhra Pradesh,42.79,71,71,53.8713,13.61,68.79,42.7971,53.8713,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0458,Kalasalingam Academy of Research and Higher Education,Srivilliputtur,Tamil Nadu,42.57,72,72,56.1717,17.23,60.48,42.5772,56.1717,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0232,Kuvempu University,Shimoga,Karnataka,42.45,73,73,57.5713,13.05,71.82,42.4573,57.5713,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0239,NITTE,Mangaluru,Karnataka,42.19,74,74,68.716,6.63,52.54,42.1974,68.716,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0035,Sri Sathya Sai Institute of Higher Learning,Anantapur,Andhra Pradesh,42.08,75,75,61.642,2.82,61.47,42.0875,61.642,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-I-1280,Maharshi Dayanand University,Rohtak,Haryana,41.95,76,76,50.7915,15.59,71.67,41.9576,50.7915,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0321,Padmashree Dr. D. Y. Patil Vidyapeeth,Mumbai,Maharashtra,41.74,77,77,70.133,3.79,60.42,41.7477,70.133,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0014,International Institute of Information Technology Hyderabad,Hyderabad,Telangana,41.69,78,78,44.7231,31.0,52.29,41.6978,44.7231,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0379,Lovely Professional University,Phagwara,Punjab,41.69,78,78,57.2816,16.44,62.61,41.6978,57.2816,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0249,Visvesvaraya Technological University,Belgaum,Karnataka,41.63,80,80,60.512,20.9,60.0,41.638,60.512,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0121,Goa University,Goa,Goa,41.37,81,81,55.9814,14.14,65.28,41.3781,55.9814,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0507,Dayalbagh Educational Institute,Agra,Uttar Pradesh,41.21,82,82,58.773,3.67,64.95,41.2182,58.773,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0470,Periyar University,Salem,Tamil Nadu,41.09,83,83,50.922,20.45,59.02,41.0983,50.922,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0051,Dibrugarh University,Dibrugarh,Assam,41.05,84,84,61.808,8.95,63.0,41.0584,61.808,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0223,Jain University,Bengluru,Karnataka,41.03,85,85,43.2916,16.75,72.52,41.0385,43.2916,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0250,Yenepoya University,Mangaluru,Karnataka,40.99,86,86,70.108,8.31,45.02,40.9986,70.108,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0372,Central University of Punjab,Bathinda,Punjab,40.93,87,87,57.4916,16.9,50.89,40.9387,57.4916,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0370,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,Puducherry,Pondicherry,40.92,88,88,65.617,7.73,50.84,40.9288,65.617,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0576,Kalyani University,Kalyani,West Bengal,40.91,89,89,39.8319,19.63,82.34,40.9189,39.8319,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-C-23033,Krishna Institute of Medical Sciences,Karad,Maharashtra,40.87,90,90,68.653,3.95,56.49,40.879,68.653,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0453,The Gandhigram Rural Institute,Gandhigram,Tamil Nadu,40.65,91,91,55.5215,15.4,61.06,40.6591,55.5215,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0569,The University of Burdwan,Bardhaman,West Bengal,40.55,92,92,50.2818,18.49,66.37,40.5592,50.2818,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0168,Maharishi Markandeshwar,Ambala,Haryana,40.49,93,93,53.2711,11.81,63.44,40.4993,53.2711,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0162,Guru Jambheshwar University of Science and Technology,Hisar,Haryana,40.43,94,94,56.9014,14.03,58.74,40.4394,56.9014,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0099,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,40.24,95,95,52.2319,19.92,64.32,40.2495,52.2319,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0366,Utkal University,Bhubaneswar,Odisha,40.05,96,96,42.8911,11.5,77.12,40.0596,42.8911,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0555,Graphic Era University,Dehradun,Uttarakhand,40.04,97,97,55.598,8.36,61.02,40.0497,55.598,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0451,Chettinad Academy of Research and Education,Kanchipuram District,Tamil Nadu,39.97,98,98,70.685,5.16,48.45,39.9798,70.685,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0164,Kurukshetra University,Kurukshetra,Haryana,39.79,99,99,49.899,9.95,68.15,39.7999,49.899,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html
+2020,Universities,IR-O-U-0043,"Vignan's Foundation for Science, Technology & Research",Guntur,Andhra Pradesh,39.71,100,100,57.398,8.36,60.6,39.711,57.398,https://www.nirfindia.org/Rankings/2020/UniversityRanking.html

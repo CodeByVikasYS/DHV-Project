@@ -1,41 +1,41 @@
 ﻿year,category,institution_id,institution_name,city,state,overall_score,rank,rank_original,tlr,rpc,go,oi,pr,source_url
-2020,Medical,IR-D-N-15,All India Institute of Medical Sciences,New Delhi,Delhi,90.69,1,1,92.6996,5783.2572,56100.0,90.691,92.6996,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-U-0079,Post Graduate Institute of Medical Education and Research,Chandigarh,Chandigarh,80.06,2,2,81.1482,4686.1666,871.44,80.062,81.1482,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-C-45654,Christian Medical College,Vellore,Tamil Nadu,73.56,3,3,82.9646,3797.0264,2089.35,73.563,82.9646,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-U-0236,National Institute of Mental Health & Neuro Sciences,Bangalore,Karnataka,71.35,4,4,87.0559,1878.3958,759.8,71.354,87.0559,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-N-33,Sanjay Gandhi Postgraduate Institute of Medical Sciences,Lucknow,Uttar Pradesh,70.21,5,5,83.1858,590.8151,2445.59,70.215,83.1858,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,64.72,6,6,72.0952,7389.0957,4437.07,64.726,72.0952,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-U-0436,Amrita Institute of Medical Sciences & Research,Kochi,Kerala,64.39,7,7,75.7444,8284.597,5942.39,64.397,75.7444,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,Puducherry,Pondicherry,63.17,8,8,75.6438,3571.9369,5576.32,63.178,75.6438,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-C-7242,Kasturba Medical College,Manipal,Karnataka,62.84,9,9,67.4139,7884.4272,166.14,62.849,67.4139,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-U-0523,King George`s Medical University,Lucknow,Uttar Pradesh,62.2,10,10,74.0344,2290.2343,5343.21,62.201,74.0344,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-U-0106,Institute of Liver and Biliary Sciences,New Delhi,Delhi,61.58,11,11,88.8234,6077.5758,3132.06,61.5811,88.8234,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-C-49008,Madras Medical College and Government General Hospital,Chennai,Tamil Nadu,58.84,12,12,72.6817,4998.0655,6166.14,58.8412,72.6817,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-I-1486,Sri Ramachandra Institute of Higher Education And Research,Chennai,Tamil Nadu,57.9,13,13,72.2927,2983.3066,9146.73,57.9013,72.2927,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-C-40453,St. John's Medical College,Bengaluru,Karnataka,57.83,14,14,72.2229,1684.9865,6838.47,57.8314,72.2229,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,56.22,15,15,66.9037,5687.0056,4818.3,56.2215,66.9037,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-C-32922,Vardhman Mahavir Medical College & Safdarjung Hospital,New Delhi,Delhi,56.12,16,16,74.2525,2589.2859,325.12,56.1216,74.2525,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-C-6414,Maulana Azad Medical College,Delhi,Delhi,55.31,17,17,69.4326,4380.4055,849.62,55.3117,69.4326,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-C-29209,Christian Medical College,Ludhiana,Punjab,55.01,18,18,74.872,3485.7965,8926.97,55.0118,74.872,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-I-1409,University College of Medical Sciences,Delhi,Delhi,55.0,19,19,65.5937,9474.6361,4128.73,55.0019,65.5937,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-C-35009,JSS Medical College,Mysore,Karnataka,54.32,20,20,67.7518,2585.8068,3745.2,54.322,67.7518,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-C-7251,Kasturba Medical College,Mangaluru,Karnataka,53.83,21,21,66.9121,1282.3269,7739.81,53.8321,66.9121,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-U-0107,Jamia Hamdard,New Delhi,Delhi,52.87,22,22,65.9141,4960.0068,9417.55,52.8722,65.9141,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,52.72,23,23,71.8318,6583.4063,2025.75,52.7223,71.8318,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-I-1110,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,52.05,24,24,71.732,4978.6069,7916.8,52.0524,71.732,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-C-29442,Govt. Medical College & Hospital,Chandigarh,Chandigarh,52.01,25,25,69.6619,684.0058,9226.97,52.0125,69.6619,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-C-29255,Dayanand Medical College,Ludhiana,Punjab,51.74,26,26,77.0515,2787.3253,12.77,51.7426,77.0515,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-C-45515,PSG Institute of Medical Sciences & Research,Coimbatore,Tamil Nadu,50.44,27,27,72.588,79.7562,8640.25,50.4427,72.588,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-N-17,Sawai Man Singh Medical College,Jaipur,Rajasthan,50.44,27,27,74.8912,3188.6749,4916.02,50.4427,74.8912,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-U-0295,Datta Meghe Institute of Medical Sciences,Wardha,Maharashtra,50.21,29,29,70.4715,1182.5968,3511.91,50.2129,70.4715,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-C-40345,M. S. Ramaiah Medical College,Bengaluru,Karnataka,50.02,30,30,75.281,1674.576,7134.14,50.023,75.281,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-U-0473,S. R. M. Institute of Science and Technology,Chennai,Tamil Nadu,49.06,31,31,68.9028,1361.8059,9016.02,49.0631,68.9028,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,48.18,32,32,67.6615,8068.1065,8829.31,48.1832,67.6615,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-U-0168,Maharishi Markandeshwar,Ambala,Haryana,48.13,33,33,68.9916,4969.8061,9823.19,48.1333,68.9916,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,46.49,34,34,69.692,5158.0066,4011.91,46.4934,69.692,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-U-0443,Annamalai University,Annamalainagar,Tamil Nadu,46.47,35,35,59.4823,6673.1246,6022.53,46.4735,59.4823,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-C-19319,K. S. Hegde Medical Academy,Mangaluru,Karnataka,46.31,36,36,69.627,7167.4569,1926.97,46.3136,69.627,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-C-23033,Krishna Institute of Medical Sciences,Karad,Maharashtra,46.0,37,37,70.0413,6568.8663,937.35,46.0037,70.0413,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-C-9435,Regional Institute of Medical Sciences,Imphal West,Manipur,45.93,38,38,66.347,8876.2259,1725.12,45.9338,66.347,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-U-0036,Sri Venkateswara Institute of Medical Sciences,Tirupati,Andhra Pradesh,45.93,38,38,69.836,7478.1252,1921.17,45.9338,69.836,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
-2020,Medical,IR-D-C-47762,Mahatma Gandhi Medical College and Research Institute,Puducherry,Pondicherry,45.62,40,40,67.641,5067.2674,4912.77,45.624,67.641,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-N-15,All India Institute of Medical Sciences,New Delhi,Delhi,90.69,1,1,92.6996,96.57,83.25,90.691,92.6996,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-U-0079,Post Graduate Institute of Medical Education and Research,Chandigarh,Chandigarh,80.06,2,2,81.1482,82.46,86.16,80.062,81.1482,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-C-45654,Christian Medical College,Vellore,Tamil Nadu,73.56,3,3,82.9646,46.37,97.02,73.563,82.9646,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-U-0236,National Institute of Mental Health & Neuro Sciences,Bangalore,Karnataka,71.35,4,4,87.0559,59.18,78.39,71.354,87.0559,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-N-33,Sanjay Gandhi Postgraduate Institute of Medical Sciences,Lucknow,Uttar Pradesh,70.21,5,5,83.1858,58.05,90.81,70.215,83.1858,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,64.72,6,6,72.0952,52.73,89.09,64.726,72.0952,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-U-0436,Amrita Institute of Medical Sciences & Research,Kochi,Kerala,64.39,7,7,75.7444,44.82,84.59,64.397,75.7444,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,Puducherry,Pondicherry,63.17,8,8,75.6438,38.35,71.93,63.178,75.6438,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-C-7242,Kasturba Medical College,Manipal,Karnataka,62.84,9,9,67.4139,39.78,84.42,62.849,67.4139,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-U-0523,King George`s Medical University,Lucknow,Uttar Pradesh,62.2,10,10,74.0344,44.22,90.23,62.201,74.0344,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-U-0106,Institute of Liver and Biliary Sciences,New Delhi,Delhi,61.58,11,11,88.8234,34.6,77.57,61.5811,88.8234,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-C-49008,Madras Medical College and Government General Hospital,Chennai,Tamil Nadu,58.84,12,12,72.6817,17.49,98.06,58.8412,72.6817,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-I-1486,Sri Ramachandra Institute of Higher Education And Research,Chennai,Tamil Nadu,57.9,13,13,72.2927,27.29,83.3,57.9013,72.2927,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-C-40453,St. John's Medical College,Bengaluru,Karnataka,57.83,14,14,72.2229,29.16,84.98,57.8314,72.2229,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,56.22,15,15,66.9037,37.56,87.0,56.2215,66.9037,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-C-32922,Vardhman Mahavir Medical College & Safdarjung Hospital,New Delhi,Delhi,56.12,16,16,74.2525,25.25,89.28,56.1216,74.2525,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-C-6414,Maulana Azad Medical College,Delhi,Delhi,55.31,17,17,69.4326,26.43,80.4,55.3117,69.4326,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-C-29209,Christian Medical College,Ludhiana,Punjab,55.01,18,18,74.872,20.34,85.79,55.0118,74.872,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-I-1409,University College of Medical Sciences,Delhi,Delhi,55.0,19,19,65.5937,37.94,74.63,55.0019,65.5937,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-C-35009,JSS Medical College,Mysore,Karnataka,54.32,20,20,67.7518,18.25,85.8,54.322,67.7518,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-C-7251,Kasturba Medical College,Mangaluru,Karnataka,53.83,21,21,66.9121,21.12,82.32,53.8321,66.9121,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-U-0107,Jamia Hamdard,New Delhi,Delhi,52.87,22,22,65.9141,41.49,60.0,52.8722,65.9141,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,52.72,23,23,71.8318,18.65,83.4,52.7223,71.8318,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-I-1110,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,52.05,24,24,71.732,20.49,78.6,52.0524,71.732,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-C-29442,Govt. Medical College & Hospital,Chandigarh,Chandigarh,52.01,25,25,69.6619,19.06,84.0,52.0125,69.6619,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-C-29255,Dayanand Medical College,Ludhiana,Punjab,51.74,26,26,77.0515,15.27,87.32,51.7426,77.0515,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-C-45515,PSG Institute of Medical Sciences & Research,Coimbatore,Tamil Nadu,50.44,27,27,72.588,8.0,79.75,50.4427,72.588,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-N-17,Sawai Man Singh Medical College,Jaipur,Rajasthan,50.44,27,27,74.8912,12.31,88.67,50.4427,74.8912,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-U-0295,Datta Meghe Institute of Medical Sciences,Wardha,Maharashtra,50.21,29,29,70.4715,15.11,82.59,50.2129,70.4715,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-C-40345,M. S. Ramaiah Medical College,Bengaluru,Karnataka,50.02,30,30,75.281,10.16,74.57,50.023,75.281,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-U-0473,S. R. M. Institute of Science and Technology,Chennai,Tamil Nadu,49.06,31,31,68.9028,28.13,61.8,49.0631,68.9028,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,48.18,32,32,67.6615,15.8,68.1,48.1832,67.6615,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-U-0168,Maharishi Markandeshwar,Ambala,Haryana,48.13,33,33,68.9916,16.49,69.8,48.1333,68.9916,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,46.49,34,34,69.692,20.51,58.0,46.4934,69.692,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-U-0443,Annamalai University,Annamalainagar,Tamil Nadu,46.47,35,35,59.4823,23.66,73.12,46.4735,59.4823,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-C-19319,K. S. Hegde Medical Academy,Mangaluru,Karnataka,46.31,36,36,69.627,7.71,67.45,46.3136,69.627,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-C-23033,Krishna Institute of Medical Sciences,Karad,Maharashtra,46.0,37,37,70.0413,13.65,68.86,46.0037,70.0413,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-C-9435,Regional Institute of Medical Sciences,Imphal West,Manipur,45.93,38,38,66.347,7.88,76.22,45.9338,66.347,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-U-0036,Sri Venkateswara Institute of Medical Sciences,Tirupati,Andhra Pradesh,45.93,38,38,69.836,6.74,78.12,45.9338,69.836,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html
+2020,Medical,IR-D-C-47762,Mahatma Gandhi Medical College and Research Institute,Puducherry,Pondicherry,45.62,40,40,67.641,10.5,67.26,45.624,67.641,https://www.nirfindia.org/Rankings/2020/MedicalRanking.html

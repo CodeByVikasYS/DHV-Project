@@ -1,31 +1,31 @@
 ﻿year,category,institution_id,institution_name,city,state,overall_score,rank,rank_original,tlr,rpc,go,oi,pr,source_url
-2021,Law,IR-L-U-0238,National Law School of India University,Bengaluru,Karnataka,78.06,1,1,78.1955,6283.9274,74100.0,78.061,78.1955,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0111,National Law University,New Delhi,Delhi,74.55,2,2,87.6842,8173.0274,1673.82,74.552,87.6842,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-N-18,NALSAR University of Law,Hyderabad,Telangana,72.39,3,3,82.7347,6071.6072,6070.01,72.393,82.7347,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0585,The West Bengal National University of Juridicial Sciences,Kolkata,West Bengal,71.24,4,4,75.7431,8986.3671,9473.82,71.244,75.7431,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,71.09,5,5,77.7077,4670.1269,7338.85,71.095,77.7077,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0134,Gujarat National Law University,Gandhinagar,Gujarat,65.18,6,6,73.5642,2769.0768,4053.0,65.186,73.5642,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0108,Jamia Millia Islamia,New Delhi,Delhi,64.67,7,7,70.5534,9973.5272,2955.9,64.677,70.5534,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0414,"National Law University, Jodhpur",Jodhpur,Rajasthan,63.41,8,8,75.2829,8274.0264,4238.85,63.418,75.2829,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-C-19328,Symbiosis Law School,Pune,Maharashtra,61.49,9,9,73.6118,8263.8976,7455.9,61.499,73.6118,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,57.28,10,10,78.4026,5354.3074,89.52,57.281,78.4026,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,55.96,11,11,55.2323,6790.0648,7229.44,55.9611,55.2323,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0099,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,55.92,12,12,59.6832,5672.965,3938.85,55.9212,59.6832,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,55.19,13,13,70.3845,251.4856,8917.26,55.1913,70.3845,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0285,"National Law Institute University, Bhopal",Bhopal,Madhya Pradesh,52.89,14,14,59.2125,9562.0159,2838.85,52.8914,59.2125,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0511,Dr. Ram Manohar Lohiya National Law University,Lucknow,Uttar Pradesh,51.44,15,15,59.532,6074.0848,3438.85,51.4415,59.532,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0386,"The Rajiv Gandhi National University of Law, Patiala",Patiala,Punjab,50.98,16,16,56.1327,4150.3871,7846.52,50.9816,56.1327,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0476,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,50.4,17,17,56.4434,3759.6953,5823.79,50.4017,56.4434,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0358,National Law University,Cuttack,Odisha,50.31,18,18,60.7213,1249.796,555.9,50.3118,60.7213,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0217,Christ University,Bengaluru,Karnataka,49.78,19,19,50.3329,6252.9163,9055.9,49.7819,50.3329,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0677,National Law University and Judicial Academy,Kamrup,Assam,49.26,20,20,72.943,2440.6664,8029.44,49.262,72.943,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-C-22215,Army Institute of Law,Mohali,Punjab,47.63,21,21,57.0,4951.5168,9149.89,47.6321,57.0,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0103,Indian Law Institute,New Delhi,Delhi,47.38,22,22,47.2915,9652.3756,373.82,47.3822,47.2915,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,46.72,23,23,49.1826,5557.2634,6553.0,46.7223,49.1826,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0379,Lovely Professional University,Phagwara,Punjab,46.18,24,24,55.849,7344.4069,8942.86,46.1824,55.849,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0564,University of Petroleum and Energy Studies,Dehradun,Uttarakhand,46.03,25,25,52.4428,2848.9168,4817.26,46.0325,52.4428,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0264,National University of Advanced Legal Studies (NUALS),Kochi,Kerala,45.66,26,26,45.932,6354.4352,9053.0,45.6626,45.932,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0078,Panjab University,Chandigarh,Chandigarh,45.62,27,27,45.4835,8744.9361,7146.52,45.6227,45.4835,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-I-1291,Damodaram Sanjivayya National Law University,Visakhapatnam,Andhra Pradesh,45.31,28,28,60.802,5748.4561,923.79,45.3128,60.802,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-U-0012,ICFAI Foundation for Higher Education,Hyderabad,Telangana,45.16,29,29,59.3138,6033.8054,6517.26,45.1629,59.3138,https://www.nirfindia.org/Rankings/2021/LawRanking.html
-2021,Law,IR-L-C-6601,"Sikkim Government Law College,Burtuk",Gangtok,Sikkim,44.24,30,30,55.32,64.585,179.52,44.243,55.32,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0238,National Law School of India University,Bengaluru,Karnataka,78.06,1,1,78.19,55.62,83.92,74.74,100.0,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0111,National Law University,New Delhi,Delhi,74.55,2,2,87.68,42.81,73.02,74.16,73.82,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-N-18,NALSAR University of Law,Hyderabad,Telangana,72.39,3,3,82.73,47.6,71.6,72.6,70.01,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0585,The West Bengal National University of Juridicial Sciences,Kolkata,West Bengal,71.24,4,4,75.74,31.89,86.36,71.94,73.82,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,71.09,5,5,77.7,77.46,70.12,69.73,38.85,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0134,Gujarat National Law University,Gandhinagar,Gujarat,65.18,6,6,73.56,42.27,69.07,68.4,53.0,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0108,Jamia Millia Islamia,New Delhi,Delhi,64.67,7,7,70.55,34.99,73.52,72.29,55.9,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0414,"National Law University, Jodhpur",Jodhpur,Rajasthan,63.41,8,8,75.28,29.82,74.02,64.42,38.85,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-C-19328,Symbiosis Law School,Pune,Maharashtra,61.49,9,9,73.61,18.82,63.89,76.74,55.9,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,57.28,10,10,78.4,26.53,54.3,74.08,9.52,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,55.96,11,11,55.23,23.67,90.06,48.72,29.44,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0099,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,55.92,12,12,59.68,32.56,72.96,50.39,38.85,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,55.19,13,13,70.38,45.02,51.48,56.89,17.26,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0285,"National Law Institute University, Bhopal",Bhopal,Madhya Pradesh,52.89,14,14,59.21,25.95,62.01,59.28,38.85,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0511,Dr. Ram Manohar Lohiya National Law University,Lucknow,Uttar Pradesh,51.44,15,15,59.53,2.6,74.08,48.34,38.85,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0386,"The Rajiv Gandhi National University of Law, Patiala",Patiala,Punjab,50.98,16,16,56.13,27.41,50.38,71.78,46.52,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0476,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,50.4,17,17,56.44,34.37,59.69,53.58,23.79,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0358,National Law University,Cuttack,Odisha,50.31,18,18,60.72,13.12,49.79,60.05,55.9,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0217,Christ University,Bengaluru,Karnataka,49.78,19,19,50.33,29.62,52.91,63.9,55.9,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0677,National Law University and Judicial Academy,Kamrup,Assam,49.26,20,20,72.94,3.24,40.66,64.8,29.44,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-C-22215,Army Institute of Law,Mohali,Punjab,47.63,21,21,57.0,0.49,51.51,68.91,49.89,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0103,Indian Law Institute,New Delhi,Delhi,47.38,22,22,47.29,15.96,52.37,56.03,73.82,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,46.72,23,23,49.18,26.55,57.26,34.65,53.0,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0379,Lovely Professional University,Phagwara,Punjab,46.18,24,24,55.84,9.73,44.4,69.89,42.86,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0564,University of Petroleum and Energy Studies,Dehradun,Uttarakhand,46.03,25,25,52.44,28.28,48.91,68.48,17.26,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0264,National University of Advanced Legal Studies (NUALS),Kochi,Kerala,45.66,26,26,45.93,20.63,54.43,52.9,53.0,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0078,Panjab University,Chandigarh,Chandigarh,45.62,27,27,45.48,35.87,44.93,61.71,46.52,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-I-1291,Damodaram Sanjivayya National Law University,Visakhapatnam,Andhra Pradesh,45.31,28,28,60.8,2.57,48.45,61.09,23.79,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-U-0012,ICFAI Foundation for Higher Education,Hyderabad,Telangana,45.16,29,29,59.31,38.6,33.8,54.65,17.26,https://www.nirfindia.org/Rankings/2021/LawRanking.html
+2021,Law,IR-L-C-6601,"Sikkim Government Law College,Burtuk",Gangtok,Sikkim,44.24,30,30,55.32,0.0,64.58,50.17,9.52,https://www.nirfindia.org/Rankings/2021/LawRanking.html

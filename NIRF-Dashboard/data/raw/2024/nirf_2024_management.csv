@@ -1,101 +1,101 @@
 ﻿year,category,institution_id,institution_name,city,state,overall_score,rank,rank_original,tlr,rpc,go,oi,pr,source_url
-2024,Management,IR-M-S-8890,Indian Institute of Management Ahmedabad,Ahmedabad,Gujarat,83.32,1,1,91.8863,8998.7171,7296.81,83.321,91.8863,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-8903,Indian Institute of Management Bangalore,Bengaluru,Karnataka,81.16,2,2,90.0856,7198.4174,54100.0,81.162,90.0856,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-8909,Indian Institute of Management Kozhikode,Kozhikode,Kerala,77.9,3,3,86.9958,9694.3777,1075.3,77.903,86.9958,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-I-1074,Indian Institute of Technology Delhi,New Delhi,Delhi,76.25,4,4,72.2178,3989.5167,3764.25,76.254,72.2178,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-8972,Indian Institute of Management Calcutta,Kolkata,West Bengal,75.07,5,5,84.1248,999.097,4685.29,75.075,84.1248,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-8931,Indian Institute of Management Mumbai,Mumbai,Maharashtra,74.73,6,6,80.8159,1499.4175,8652.82,74.736,80.8159,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-8959,Indian Institute of Management Lucknow,Lucknow,Uttar Pradesh,74.43,7,7,84.2549,996.5971,1779.81,74.437,84.2549,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-8918,Indian Institute of Management Indore,Indore,Madhya Pradesh,73.53,8,8,84.0855,2893.4972,3857.93,73.538,84.0855,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-132,XLRI - Xavier School of Management,Jamshedpur,Jharkhand,68.13,9,9,85.4939,7997.9264,5745.02,68.139,85.4939,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0306,Indian Institute of Technology Bombay,Mumbai,Maharashtra,67.16,10,10,78.3061,6479.2558,8334.5,67.161,78.3061,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-I-1170,Management Development Institute,Gurugram,Haryana,66.85,11,11,75.875,7495.2471,527.07,66.8511,75.875,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-8895,Indian Institute of Management Rohtak,Rohtak,Haryana,66.49,12,12,79.6945,188.9075,9837.0,66.4912,79.6945,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-C-19343,Symbiosis Institute of Business Management,Pune,Maharashtra,65.13,13,13,75.5142,8594.2766,5041.21,65.1313,75.5142,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-8868,Indian Institute of Management Raipur,Raipur,Chhattisgarh,64.4,14,14,78.3141,2890.688,5523.25,64.4014,78.3141,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0102,Indian Institute of Foreign Trade,New Delhi,Delhi,62.36,15,15,80.3632,8087.4866,4942.58,62.3615,80.3632,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0456,Indian Institute of Technology Madras,Chennai,Tamil Nadu,61.73,16,16,70.3947,9375.106,4351.74,61.7316,70.3947,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-8904,Indian Institute of Management Ranchi,Ranchi,Jharkhand,61.27,17,17,70.8939,6589.4571,4230.82,61.2717,70.8939,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0560,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,61.21,18,18,68.0859,71.0962,1626.5,61.2118,68.0859,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,61.03,19,19,50.1063,6887.8855,1737.88,61.0319,50.1063,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-I-1044,S. P. Jain Institute of Management and Research,Mumbai,Maharashtra,60.97,20,20,78.8626,6098.6568,9027.07,60.972,78.8626,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-N-10,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,60.96,21,21,78.4229,9692.3976,7122.95,60.9621,78.4229,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-8942,Indian Institute of Management Udaipur,Udaipur,Rajasthan,60.93,22,22,79.2133,9588.6972,520.39,60.9322,79.2133,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-8967,Indian Institute of Management Kashipur,Kashipur,Uttarakhand,60.82,23,23,67.954,3989.0674,4730.56,60.8223,67.954,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-8937,Indian Institute of Management Shillong,Shillong,Meghalaya,60.49,24,24,74.6828,3394.9674,931.83,60.4924,74.6828,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0108,Jamia Millia Islamia,New Delhi,Delhi,60.32,25,25,65.4548,3981.4683,6515.14,60.3225,65.4548,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-1007,Indian Institute of Management Visakhapatnam,Visakhapatnam,Andhra Pradesh,59.2,26,26,80.8122,5186.107,5339.37,59.2026,80.8122,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-8948,Indian Institute of Management Tiruchirappalli,Tiruchirappalli,Tamil Nadu,57.67,27,27,60.9729,987.4769,7461.89,57.6727,60.9729,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0436,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,57.4,28,28,64.1141,4073.5175,5034.97,57.4028,64.1141,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-I-1075,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,57.23,29,29,66.9044,9777.9048,8132.08,57.2329,66.9044,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0497,Amity University,Gautam Budh Nagar,Uttar Pradesh,57.23,29,29,70.3954,1158.8567,4913.62,57.2329,70.3954,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-15962,Indian Institute of Management Nagpur,Nagpur,Maharashtra,56.94,31,31,71.5727,1786.557,3329.78,56.9431,71.5727,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-14875,MICA,Ahmedabad,Gujarat,56.62,32,32,70.5238,884.3668,133.6,56.6232,70.5238,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-1006,Indian Institute of Management Bodh Gaya,Gaya,Bihar,56.27,33,33,75.0825,8084.7369,5921.05,56.2733,75.0825,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-N-16,Great Lakes Institute of Management,Chennai,Tamil Nadu,56.15,34,34,78.3022,581.8573,3623.25,56.1534,78.3022,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-394,Institute of Management Technology,Ghaziabad,Uttar Pradesh,56.03,35,35,76.4632,5180.6463,768.25,56.0335,76.4632,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0747,Chandigarh University,Mohali,Punjab,55.71,36,36,75.303,370.228,5820.06,55.7136,75.303,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-87,Goa Institute of Management,Sanquelim,Goa,55.67,37,37,75.1125,9484.4171,6513.23,55.6737,75.1125,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0379,Lovely Professional University,Phagwara,Punjab,55.49,38,38,73.4938,9762.8775,1916.61,55.4938,73.4938,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0012,"ICFAI Foundation for Higher Education, Hyderabad",Hyderabad,Telangana,55.31,39,39,75.5926,7775.9676,618.02,55.3139,75.5926,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-I-1064,International Management Institute,New Delhi,Delhi,54.89,40,40,72.2526,2987.2369,589.12,54.894,72.2526,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0564,UPES,Dehradun,Uttarakhand,54.82,41,41,73.2932,9467.3965,6828.99,54.8241,73.2932,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-1004,Indian Institute of Management Jammu (IIMJ),Jammu,Jammu and Kashmir,54.64,42,42,73.7316,6886.8773,3128.18,54.64,42.0,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0715,XIM University,Bhubaneswar,Odisha,54.49,43,43,73.8621,3691.2455,421.69,54.4943,73.8621,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),Patiala,Punjab,53.26,44,44,66.1342,2863.2272,338.69,53.2644,66.1342,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-3283,Jaipuria Institute of Management,Noida,Uttar Pradesh,53.23,45,45,67.3528,2276.4767,1525.35,53.2345,67.3528,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,Dhanbad,Jharkhand,52.78,46,46,70.6741,3155.5363,7916.96,52.7846,70.6741,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-16881,Indian Institute of Management Amritsar,Amritsar,Punjab,52.57,47,47,67.8318,6387.8667,9922.63,52.5747,67.8318,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,52.26,48,48,62.1829,5081.8256,4127.63,52.2648,62.1829,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-92,Institute of Rural Management Anand (IRMA),Anand,Gujarat,51.54,49,49,65.2922,3687.7364,1312.84,51.5449,65.2922,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-6,Indian Institute of Management Sambalpur,Sambalpur,Odisha,51.47,50,50,64.0618,281.3275,5630.31,51.475,64.0618,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0467,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,51.4,51,51,54.1939,8471.8461,6626.5,51.4051,54.1939,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-17295,Great Lakes Institute of Management,Gurgaon,Haryana,51.35,52,52,76.5318,8372.5179,253.1,51.3552,76.5318,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-I-1066,Fore School of Management,New Delhi,Delhi,51.08,53,53,70.4217,9385.1262,4013.23,51.0853,70.4217,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0373,Chitkara University,Rajpura,Punjab,51.02,54,54,71.2233,8157.3075,65.52,51.0254,71.2233,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0146,Nirma University,Ahmedabad,Gujarat,51.01,55,55,64.0927,6980.9863,988.69,51.0155,64.0927,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-I-1408,"International Management Institute, Kolkata",Kolkata,West Bengal,50.97,56,56,63.643,9479.3066,281.06,50.9756,63.643,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-15911,Indian Institute of Management Sirmaur,Sirmaur,Himachal Pradesh,50.92,57,57,66.2918,1583.6172,6715.88,50.9257,66.2918,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-156,"T. A. Pai Management Institute, Manipal",Manipal,Karnataka,50.78,58,58,60.1025,9081.917,4815.51,50.7858,60.1025,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0555,Graphic Era University,Dehradun,Uttarakhand,50.59,59,59,69.1627,4159.0071,6826.5,50.5959,69.1627,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0217,Christ University,Bengaluru,Karnataka,50.56,60,60,61.4822,969.9072,4542.58,50.566,61.4822,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-I-1124,"International Management Institute, Bhubaneswar",Bhubaneswar,Odisha,50.38,61,61,72.0616,7278.9476,912.6,50.3861,72.0616,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,49.69,62,62,70.6619,7769.0375,4612.04,49.6962,70.6619,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-C-56616,K J Somaiya Institute of Management Studies and Research,Mumbai,Maharashtra,49.66,63,63,68.8423,272.5966,729.12,49.6663,68.8423,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-354,Birla Institute of Management Technology,Greater Noida,Uttar Pradesh,49.44,64,64,67.2318,6980.5465,899.55,49.4464,67.2318,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0099,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,49.4,65,65,60.9232,1673.0254,414.76,49.4065,60.9232,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-331,Loyola Institute of Business Administration,Chennai,Tamil Nadu,49.26,66,66,69.6315,8172.6061,7629.25,49.2666,69.6315,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,49.24,67,67,79.1222,2951.7577,227.36,49.2467,79.1222,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0410,Malaviya National Institute of Technology,Jaipur,Rajasthan,49.14,68,68,48.9057,6355.6157,513.1,49.1468,48.9057,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0439,Anna University,Chennai,Tamil Nadu,48.92,69,69,53.3739,5963.2345,3138.52,48.9269,53.3739,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,48.68,70,70,54.244,2968.5253,4412.84,48.687,54.244,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0213,Alliance University,Bengaluru,Karnataka,48.38,71,71,78.599,367.1974,9211.64,48.3871,78.599,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-419,"Jaipuria Institute of Management, Lucknow",Lucknow,Uttar Pradesh,48.32,72,72,71.5112,8172.366,8224.76,48.3272,71.5112,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0749,"Manipal University, Jaipur",Jaipur,Rajasthan,48.1,73,73,66.1524,9268.0669,72.6,48.1073,66.1524,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,47.92,74,74,67.573,8451.6277,733.1,47.9274,67.573,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-309,Jaipuria Institute of Management,Jaipur,Rajasthan,47.56,75,75,71.3313,8874.4056,8214.38,47.5675,71.3313,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0263,National Institute of Technology Calicut,Kozhikode,Kerala,47.55,76,76,67.4924,6866.0354,812.84,47.5576,67.4924,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0223,"Jain University, Bangalore",Bengaluru,Karnataka,47.47,77,77,72.0011,9670.8168,4012.84,47.4777,72.0011,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0107,Jamia Hamdard,New Delhi,Delhi,47.39,78,78,67.8017,5770.0574,133.6,47.3978,67.8017,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,47.27,79,79,70.6826,1854.417,353.1,47.2779,70.6826,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-C-37013,PSG College of Technology,Coimbatore,Tamil Nadu,47.13,80,80,60.4511,2776.6057,8845.02,47.138,60.4511,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0253,Cochin University of Science and Technology,Cochin,Kerala,47.08,81,81,70.9419,3766.2758,718.69,47.0881,70.9419,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-C-36557,Thiagarajar School of Management,Madurai,Tamil Nadu,47.02,82,82,66.9024,3164.3847,6720.06,47.0282,66.9024,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0735,BML Munjal University,Gurgaon,Haryana,46.67,83,83,70.4714,5366.9874,643.1,46.6783,70.4714,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-19472,Prin. L.N. Welingkar Institute of Management Development and Research (PGDM),Mumbai,Maharashtra,46.53,84,84,67.481,7081.806,716.45,46.5384,67.481,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0267,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,Gwalior,Madhya Pradesh,46.47,85,85,62.2423,4671.8052,7811.23,46.4785,62.2423,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0498,Babasaheb Bhimrao Ambedkar University,Lucknow,Uttar Pradesh,46.42,86,86,62.4411,578.2382,674.57,46.4286,62.4411,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-782,Jagan Institute of Management Studies Technical Campus,Delhi,Delhi,46.38,87,87,66.048,3678.757,6612.44,46.3887,66.048,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-C-32887,New Delhi Institute of Management,Delhi,Delhi,46.29,88,88,70.213,4779.1072,4911.23,46.2988,70.213,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0147,Pandit Deendayal Energy University,Gandhinagar,Gujarat,45.39,89,89,60.1426,6875.314,802.09,45.3989,60.1426,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,45.0,90,90,61.7523,864.1854,8412.44,45.009,61.7523,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-14565,National Institute of Bank Management,Pune,Maharashtra,44.85,91,91,64.458,1785.0158,502.09,44.8591,64.458,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0078,Panjab University,Chandigarh,Chandigarh,44.7,92,92,48.2129,8069.6155,7818.02,44.7092,48.2129,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-164,Rajagiri Business School,Cochin,Kerala,44.33,93,93,65.552,9259.1456,918.69,44.3393,65.552,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-N-4,Bharathidasan Institute of Management,Tiruchirappalli,Tamil Nadu,44.17,94,94,63.85,6982.3648,6334.73,44.1794,63.85,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0056,Tezpur University,Tezpur,Assam,43.48,95,95,63.7316,9168.0453,223.6,43.4895,63.7316,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-S-14553,National Institute of Agricultural Extension Management,Hyderabad,Telangana,43.17,96,96,69.307,7667.846,664.09,43.1796,69.307,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-I-1132,Institute of Management Technology,Hyderabad,Telangana,43.01,97,97,55.4513,6175.7661,839.55,43.0197,55.4513,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0643,Galgotias University,Gautam Budh Nagar,Uttar Pradesh,42.9,98,98,62.4214,9964.5165,122.6,42.9098,62.4214,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-I-1238,Krea University,Sri City,Andhra Pradesh,42.82,99,99,69.732,2264.6173,159.98,42.8299,69.732,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
-2024,Management,IR-M-U-0025,National Institute of Technology Warangal,Warangal,Telangana,42.63,100,100,63.7028,5746.5346,369.98,42.631,63.7028,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-8890,Indian Institute of Management Ahmedabad,Ahmedabad,Gujarat,83.32,1,1,91.88,63.89,98.71,71.72,96.81,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-8903,Indian Institute of Management Bangalore,Bengaluru,Karnataka,81.16,2,2,90.08,56.71,98.41,74.54,100.0,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-8909,Indian Institute of Management Kozhikode,Kozhikode,Kerala,77.9,3,3,86.99,58.96,94.37,77.1,75.3,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-I-1074,Indian Institute of Technology Delhi,New Delhi,Delhi,76.25,4,4,72.21,78.39,89.51,67.37,64.25,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-8972,Indian Institute of Management Calcutta,Kolkata,West Bengal,75.07,5,5,84.12,48.09,99.09,70.46,85.29,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-8931,Indian Institute of Management Mumbai,Mumbai,Maharashtra,74.73,6,6,80.81,59.14,99.41,75.86,52.82,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-8959,Indian Institute of Management Lucknow,Lucknow,Uttar Pradesh,74.43,7,7,84.25,49.09,96.59,71.17,79.81,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-8918,Indian Institute of Management Indore,Indore,Madhya Pradesh,73.53,8,8,84.08,55.28,93.49,72.38,57.93,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-132,XLRI - Xavier School of Management,Jamshedpur,Jharkhand,68.13,9,9,85.49,39.79,97.92,64.57,45.02,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0306,Indian Institute of Technology Bombay,Mumbai,Maharashtra,67.16,10,10,78.3,61.64,79.25,58.83,34.5,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-I-1170,Management Development Institute,Gurugram,Haryana,66.85,11,11,75.87,50.74,95.24,71.05,27.07,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-8895,Indian Institute of Management Rohtak,Rohtak,Haryana,66.49,12,12,79.69,45.01,88.9,75.98,37.0,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-C-19343,Symbiosis Institute of Business Management,Pune,Maharashtra,65.13,13,13,75.51,42.85,94.27,66.5,41.21,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-8868,Indian Institute of Management Raipur,Raipur,Chhattisgarh,64.4,14,14,78.31,41.28,90.68,80.55,23.25,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0102,Indian Institute of Foreign Trade,New Delhi,Delhi,62.36,15,15,80.36,32.8,87.48,66.49,42.58,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0456,Indian Institute of Technology Madras,Chennai,Tamil Nadu,61.73,16,16,70.39,47.93,75.1,60.43,51.74,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-8904,Indian Institute of Management Ranchi,Ranchi,Jharkhand,61.27,17,17,70.89,39.65,89.45,71.42,30.82,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0560,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,61.21,18,18,68.08,59.0,71.09,62.16,26.5,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,61.03,19,19,50.1,63.68,87.88,55.17,37.88,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-I-1044,S. P. Jain Institute of Management and Research,Mumbai,Maharashtra,60.97,20,20,78.86,26.6,98.65,68.9,27.07,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-N-10,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,60.96,21,21,78.42,29.96,92.39,76.71,22.95,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-8942,Indian Institute of Management Udaipur,Udaipur,Rajasthan,60.93,22,22,79.21,33.95,88.69,72.05,20.39,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-8967,Indian Institute of Management Kashipur,Kashipur,Uttarakhand,60.82,23,23,67.95,40.39,89.06,74.47,30.56,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-8937,Indian Institute of Management Shillong,Shillong,Meghalaya,60.49,24,24,74.68,28.33,94.96,74.09,31.83,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0108,Jamia Millia Islamia,New Delhi,Delhi,60.32,25,25,65.45,48.39,81.46,83.65,15.14,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-1007,Indian Institute of Management Visakhapatnam,Visakhapatnam,Andhra Pradesh,59.2,26,26,80.81,22.51,86.1,70.53,39.37,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-8948,Indian Institute of Management Tiruchirappalli,Tiruchirappalli,Tamil Nadu,57.67,27,27,60.97,29.09,87.47,69.74,61.89,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0436,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,57.4,28,28,64.11,41.4,73.51,75.5,34.97,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-I-1075,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,57.23,29,29,66.9,44.97,77.9,48.81,32.08,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0497,Amity University,Gautam Budh Nagar,Uttar Pradesh,57.23,29,29,70.39,54.11,58.85,67.49,13.62,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-15962,Indian Institute of Management Nagpur,Nagpur,Maharashtra,56.94,31,31,71.57,27.17,86.55,70.33,29.78,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-14875,MICA,Ahmedabad,Gujarat,56.62,32,32,70.52,38.08,84.36,68.13,3.6,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-1006,Indian Institute of Management Bodh Gaya,Gaya,Bihar,56.27,33,33,75.08,25.8,84.73,69.59,21.05,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-N-16,Great Lakes Institute of Management,Chennai,Tamil Nadu,56.15,34,34,78.3,22.05,81.85,73.36,23.25,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-394,Institute of Management Technology,Ghaziabad,Uttar Pradesh,56.03,35,35,76.46,32.51,80.64,63.76,8.25,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0747,Chandigarh University,Mohali,Punjab,55.71,36,36,75.3,30.03,70.22,80.58,20.06,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-87,Goa Institute of Management,Sanquelim,Goa,55.67,37,37,75.11,25.94,84.41,71.65,13.23,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0379,Lovely Professional University,Phagwara,Punjab,55.49,38,38,73.49,38.97,62.87,75.19,16.61,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0012,"ICFAI Foundation for Higher Education, Hyderabad",Hyderabad,Telangana,55.31,39,39,75.59,26.77,75.96,76.06,18.02,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-I-1064,International Management Institute,New Delhi,Delhi,54.89,40,40,72.25,26.29,87.23,69.58,9.12,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0564,UPES,Dehradun,Uttarakhand,54.82,41,41,73.29,32.94,67.39,65.68,28.99,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-1004,Indian Institute of Management Jammu (IIMJ),Jammu,Jammu and Kashmir,54.64,42,42,73.73,16.68,86.87,73.31,28.18,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0715,XIM University,Bhubaneswar,Odisha,54.49,43,43,73.86,21.36,91.24,55.04,21.69,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),Patiala,Punjab,53.26,44,44,66.13,42.28,63.22,72.33,8.69,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-3283,Jaipuria Institute of Management,Noida,Uttar Pradesh,53.23,45,45,67.35,28.22,76.47,67.15,25.35,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,Dhanbad,Jharkhand,52.78,46,46,70.67,41.31,55.53,63.79,16.96,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-16881,Indian Institute of Management Amritsar,Amritsar,Punjab,52.57,47,47,67.83,18.63,87.86,67.99,22.63,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,52.26,48,48,62.18,29.5,81.82,56.41,27.63,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-92,Institute of Rural Management Anand (IRMA),Anand,Gujarat,51.54,49,49,65.29,22.36,87.73,64.13,12.84,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-6,Indian Institute of Management Sambalpur,Sambalpur,Odisha,51.47,50,50,64.06,18.02,81.32,75.56,30.31,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0467,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,51.4,51,51,54.19,39.84,71.84,61.66,26.5,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-17295,Great Lakes Institute of Management,Gurgaon,Haryana,51.35,52,52,76.53,18.83,72.51,79.25,3.1,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-I-1066,Fore School of Management,New Delhi,Delhi,51.08,53,53,70.42,17.93,85.12,62.4,13.23,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0373,Chitkara University,Rajpura,Punjab,51.02,54,54,71.22,33.81,57.3,75.06,5.52,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0146,Nirma University,Ahmedabad,Gujarat,51.01,55,55,64.09,27.69,80.98,63.98,8.69,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-I-1408,"International Management Institute, Kolkata",Kolkata,West Bengal,50.97,56,56,63.64,30.94,79.3,66.28,1.06,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-15911,Indian Institute of Management Sirmaur,Sirmaur,Himachal Pradesh,50.92,57,57,66.29,18.15,83.61,72.67,15.88,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-156,"T. A. Pai Management Institute, Manipal",Manipal,Karnataka,50.78,58,58,60.1,25.9,81.91,70.48,15.51,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0555,Graphic Era University,Dehradun,Uttarakhand,50.59,59,59,69.16,27.41,59.0,71.68,26.5,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0217,Christ University,Bengaluru,Karnataka,50.56,60,60,61.48,22.09,69.9,72.45,42.58,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-I-1124,"International Management Institute, Bhubaneswar",Bhubaneswar,Odisha,50.38,61,61,72.06,16.72,78.94,76.91,2.6,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,49.69,62,62,70.66,19.77,69.03,75.46,12.04,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-C-56616,K J Somaiya Institute of Management Studies and Research,Mumbai,Maharashtra,49.66,63,63,68.84,23.02,72.59,66.72,9.12,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-354,Birla Institute of Management Technology,Greater Noida,Uttar Pradesh,49.44,64,64,67.23,18.69,80.54,65.89,9.55,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0099,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,49.4,65,65,60.92,32.16,73.02,54.04,14.76,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-331,Loyola Institute of Business Administration,Chennai,Tamil Nadu,49.26,66,66,69.63,15.81,72.6,61.76,29.25,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,49.24,67,67,79.12,22.29,51.75,77.22,7.36,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0410,Malaviya National Institute of Technology,Jaipur,Rajasthan,49.14,68,68,48.9,57.63,55.61,57.51,3.1,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0439,Anna University,Chennai,Tamil Nadu,48.92,69,69,53.37,39.59,63.23,45.31,38.52,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,48.68,70,70,54.24,40.29,68.52,53.44,12.84,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0213,Alliance University,Bengaluru,Karnataka,48.38,71,71,78.59,9.03,67.19,74.92,11.64,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-419,"Jaipuria Institute of Management, Lucknow",Lucknow,Uttar Pradesh,48.32,72,72,71.51,12.81,72.36,60.82,24.76,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0749,"Manipal University, Jaipur",Jaipur,Rajasthan,48.1,73,73,66.15,24.92,68.06,69.07,2.6,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,47.92,74,74,67.57,30.84,51.62,77.73,3.1,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-309,Jaipuria Institute of Management,Jaipur,Rajasthan,47.56,75,75,71.33,13.88,74.4,56.82,14.38,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0263,National Institute of Technology Calicut,Kozhikode,Kerala,47.55,76,76,67.49,24.68,66.03,54.08,12.84,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0223,"Jain University, Bangalore",Bengaluru,Karnataka,47.47,77,77,72.0,11.96,70.81,68.4,12.84,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0107,Jamia Hamdard,New Delhi,Delhi,47.39,78,78,67.8,17.57,70.05,74.13,3.6,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,47.27,79,79,70.68,26.18,54.41,70.35,3.1,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-C-37013,PSG College of Technology,Coimbatore,Tamil Nadu,47.13,80,80,60.45,11.27,76.6,57.88,45.02,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0253,Cochin University of Science and Technology,Cochin,Kerala,47.08,81,81,70.94,19.37,66.27,58.71,8.69,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-C-36557,Thiagarajar School of Management,Madurai,Tamil Nadu,47.02,82,82,66.9,24.31,64.38,47.67,20.06,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0735,BML Munjal University,Gurgaon,Haryana,46.67,83,83,70.47,14.53,66.98,74.64,3.1,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-19472,Prin. L.N. Welingkar Institute of Management Development and Research (PGDM),Mumbai,Maharashtra,46.53,84,84,67.48,10.7,81.8,60.71,6.45,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0267,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,Gwalior,Madhya Pradesh,46.47,85,85,62.24,23.46,71.8,52.78,11.23,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0498,Babasaheb Bhimrao Ambedkar University,Lucknow,Uttar Pradesh,46.42,86,86,62.44,11.05,78.23,82.67,4.57,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-782,Jagan Institute of Management Studies Technical Campus,Delhi,Delhi,46.38,87,87,66.04,8.36,78.75,70.66,12.44,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-C-32887,New Delhi Institute of Management,Delhi,Delhi,46.29,88,88,70.21,3.47,79.1,72.49,11.23,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0147,Pandit Deendayal Energy University,Gandhinagar,Gujarat,45.39,89,89,60.14,26.68,75.31,40.8,2.09,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,45.0,90,90,61.75,23.08,64.18,54.84,12.44,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-14565,National Institute of Bank Management,Pune,Maharashtra,44.85,91,91,64.45,8.17,85.01,58.5,2.09,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0078,Panjab University,Chandigarh,Chandigarh,44.7,92,92,48.21,29.8,69.61,55.78,18.02,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-164,Rajagiri Business School,Cochin,Kerala,44.33,93,93,65.55,20.92,59.14,56.91,8.69,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-N-4,Bharathidasan Institute of Management,Tiruchirappalli,Tamil Nadu,44.17,94,94,63.85,0.69,82.36,48.63,34.73,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0056,Tezpur University,Tezpur,Assam,43.48,95,95,63.73,16.91,68.04,53.22,3.6,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-S-14553,National Institute of Agricultural Extension Management,Hyderabad,Telangana,43.17,96,96,69.3,7.76,67.84,60.66,4.09,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-I-1132,Institute of Management Technology,Hyderabad,Telangana,43.01,97,97,55.45,13.61,75.76,61.83,9.55,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0643,Galgotias University,Gautam Budh Nagar,Uttar Pradesh,42.9,98,98,62.42,14.99,64.51,65.12,2.6,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-I-1238,Krea University,Sri City,Andhra Pradesh,42.82,99,99,69.73,2.22,64.61,73.15,9.98,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html
+2024,Management,IR-M-U-0025,National Institute of Technology Warangal,Warangal,Telangana,42.63,100,100,63.7,28.57,46.53,46.36,9.98,https://www.nirfindia.org/Rankings/2024/ManagementRanking.html

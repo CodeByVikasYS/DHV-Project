@@ -1,31 +1,31 @@
 ﻿year,category,institution_id,institution_name,city,state,overall_score,rank,rank_original,tlr,rpc,go,oi,pr,source_url
-2019,Medical,IR-D-N-15,All India Institute of Medical Sciences,New Delhi,Delhi,87.52,1,1,91.8196,1866.9177,43100.0,87.521,91.8196,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-U-0079,Post Graduate Institute of Medical Education and Research,Chandigarh,Chandigarh,77.88,2,2,78.6084,4776.997,7464.87,77.882,78.6084,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-C-45654,Christian Medical College,Vellore,Tamil Nadu,70.32,3,3,81.9249,2775.5265,8992.74,70.323,81.9249,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-N-33,Sanjay Gandhi Postgraduate Institute of Medical Sciences,Lucknow,Uttar Pradesh,64.16,4,4,74.8857,1679.6546,840.11,64.164,74.8857,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-U-0436,Amrita Institute of Medical Sciences & Research,Kochi,Kerala,62.84,5,5,75.6243,1573.1674,4951.33,62.845,75.6243,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,61.66,6,6,70.575,9576.4555,2943.8,61.666,70.575,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-C-7242,Kasturba Medical College,Manipal,Karnataka,61.4,7,7,67.4141,1173.6973,8167.29,61.407,67.4141,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,Puducherry,Pondicherry,61.38,8,8,73.8338,5264.8865,7481.15,61.388,73.8338,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-U-0106,Institute of Liver and Biliary Sciences,New Delhi,Delhi,59.8,9,9,89.4636,8869.9657,1521.81,59.809,89.4636,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-U-0523,King George`s Medical University,Lucknow,Uttar Pradesh,58.53,10,10,71.1742,5573.1453,5444.39,58.531,71.1742,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-I-1486,Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,58.45,11,11,71.3631,4581.1962,2951.33,58.4511,71.3631,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-C-40453,St. John's Medical College,Bangalore,Karnataka,56.68,12,12,73.0927,5374.1467,2949.32,56.6812,73.0927,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,55.79,13,13,67.2638,1084.2459,8013.55,55.7913,67.2638,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-C-6414,Maulana Azad Medical College,Delhi,Delhi,54.01,14,14,69.7128,9972.8653,8744.39,54.0114,69.7128,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-U-0107,Jamia Hamdard,New Delhi,Delhi,51.7,15,15,66.4042,6748.8672,3019.76,51.7015,66.4042,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-C-7251,Kasturba Medical College,Mengaluru,Karnataka,51.23,16,16,65.7422,2170.057,6537.79,51.2316,65.7422,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-C-35009,JSS Medical College,Mysore,Karnataka,50.58,17,17,68.7219,168.1471,3034.97,50.5817,68.7219,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-C-29209,Christian Medical College,Ludhiana,Punjab,50.43,18,18,68.4328,8060.6764,7826.52,50.4318,68.4328,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-C-32922,Vardhman Mahavir Medical College & Safdarjung Hospital,New Delhi,Delhi,50.19,19,19,71.6427,6664.6857,5017.05,50.1919,71.6427,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-I-1110,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,49.81,20,20,71.5017,1070.9071,3119.23,49.812,71.5017,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,49.57,21,21,69.7116,5570.5064,6531.16,49.5721,69.7116,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-U-0473,SRM Institute of Science and Technology,Chennai,Tamil Nadu,49.14,22,22,65.2427,5966.9156,8122.3,49.1422,65.2427,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-I-1409,University College of Medical Sciences,Delhi,Delhi,48.69,23,23,65.2439,9944.4355,8426.52,48.6923,65.2439,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-C-29255,Dayanand Medical College,Ludhiana,Punjab,48.0,24,24,76.8116,7867.6155,29.05,48.0024,76.8116,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,47.41,25,25,69.0116,269.7266,913.55,47.4125,69.0116,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-U-0443,Annamalai University,Annamalainagar,Tamil Nadu,46.63,26,26,60.8723,4261.5851,639.13,46.6326,60.8723,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-C-40345,M. S. Ramaiah Medical College,Bengaluru,Karnataka,46.61,27,27,71.0313,857.1763,1336.4,46.6127,71.0313,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-C-9435,Regional Institute of Medical Sciences,Imphal West,Manipur,46.6,28,28,68.6311,2467.2162,4729.53,46.6028,68.6311,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-U-0036,Sri Venkateswara Institute of Medical Sciences,Tirupati,Andhra Pradesh,46.38,29,29,70.499,4472.4251,4327.84,46.3829,70.499,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
-2019,Medical,IR-D-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,46.3,30,30,68.1815,4357.7267,6529.12,46.303,68.1815,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-N-15,All India Institute of Medical Sciences,New Delhi,Delhi,87.52,1,1,91.8196,96.18,66.91,87.521,91.8196,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-U-0079,Post Graduate Institute of Medical Education and Research,Chandigarh,Chandigarh,77.88,2,2,78.6084,84.47,76.99,77.882,78.6084,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-C-45654,Christian Medical College,Vellore,Tamil Nadu,70.32,3,3,81.9249,49.27,75.52,70.323,81.9249,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-N-33,Sanjay Gandhi Postgraduate Institute of Medical Sciences,Lucknow,Uttar Pradesh,64.16,4,4,74.8857,57.16,79.65,64.164,74.8857,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-U-0436,Amrita Institute of Medical Sciences & Research,Kochi,Kerala,62.84,5,5,75.6243,43.15,73.16,62.845,75.6243,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,61.66,6,6,70.575,50.95,76.45,61.666,70.575,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-C-7242,Kasturba Medical College,Manipal,Karnataka,61.4,7,7,67.4141,41.11,73.69,61.407,67.4141,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,Puducherry,Pondicherry,61.38,8,8,73.8338,38.52,64.88,61.388,73.8338,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-U-0106,Institute of Liver and Biliary Sciences,New Delhi,Delhi,59.8,9,9,89.4636,36.88,69.96,59.809,89.4636,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-U-0523,King George`s Medical University,Lucknow,Uttar Pradesh,58.53,10,10,71.1742,42.55,73.14,58.531,71.1742,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-I-1486,Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,58.45,11,11,71.3631,31.45,81.19,58.4511,71.3631,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-C-40453,St. John's Medical College,Bangalore,Karnataka,56.68,12,12,73.0927,27.53,74.14,56.6812,73.0927,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,55.79,13,13,67.2638,38.1,84.24,55.7913,67.2638,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-C-6414,Maulana Azad Medical College,Delhi,Delhi,54.01,14,14,69.7128,28.99,72.86,54.0114,69.7128,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-U-0107,Jamia Hamdard,New Delhi,Delhi,51.7,15,15,66.4042,42.67,48.86,51.7015,66.4042,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-C-7251,Kasturba Medical College,Mengaluru,Karnataka,51.23,16,16,65.7422,22.21,70.05,51.2316,65.7422,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-C-35009,JSS Medical College,Mysore,Karnataka,50.58,17,17,68.7219,19.01,68.14,50.5817,68.7219,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-C-29209,Christian Medical College,Ludhiana,Punjab,50.43,18,18,68.4328,28.8,60.67,50.4318,68.4328,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-C-32922,Vardhman Mahavir Medical College & Safdarjung Hospital,New Delhi,Delhi,50.19,19,19,71.6427,27.66,64.68,50.1919,71.6427,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-I-1110,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,49.81,20,20,71.5017,17.1,70.9,49.812,71.5017,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,49.57,21,21,69.7116,16.55,70.5,49.5721,69.7116,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-U-0473,SRM Institute of Science and Technology,Chennai,Tamil Nadu,49.14,22,22,65.2427,27.59,66.91,49.1422,65.2427,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-I-1409,University College of Medical Sciences,Delhi,Delhi,48.69,23,23,65.2439,39.99,44.43,48.6923,65.2439,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-C-29255,Dayanand Medical College,Ludhiana,Punjab,48.0,24,24,76.8116,16.78,67.61,48.0024,76.8116,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,47.41,25,25,69.0116,16.02,69.72,47.4125,69.0116,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-U-0443,Annamalai University,Annamalainagar,Tamil Nadu,46.63,26,26,60.8723,23.42,61.58,46.6326,60.8723,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-C-40345,M. S. Ramaiah Medical College,Bengaluru,Karnataka,46.61,27,27,71.0313,13.08,57.17,46.6127,71.0313,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-C-9435,Regional Institute of Medical Sciences,Imphal West,Manipur,46.6,28,28,68.6311,11.24,67.21,46.6028,68.6311,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-U-0036,Sri Venkateswara Institute of Medical Sciences,Tirupati,Andhra Pradesh,46.38,29,29,70.499,9.44,72.42,46.3829,70.499,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
+2019,Medical,IR-D-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,46.3,30,30,68.1815,15.43,57.72,46.303,68.1815,https://www.nirfindia.org/Rankings/2019/MedicalRanking.html
