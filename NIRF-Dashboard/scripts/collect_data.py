@@ -1,10 +1,10 @@
-
 import re
 import time
 import pandas as pd
 
 from pathlib import Path
 from urllib.parse import urlparse
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -12,15 +12,12 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
-# ==========================================
-# 1. PROJECT CONFIGURATION
-# ==========================================
+# ---------------- CONFIGURATION ----------------
 
 PROJECT = Path(__file__).resolve().parent.parent
-
 RAW_DIR = PROJECT / "data" / "raw"
 
-YEARS = range(2018, 2026)
+YEARS = range(2017, 2026)
 
 RAW_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -41,59 +38,86 @@ CATEGORY_NAMES = {
     "StatePublicUniversityRanking.html": "State Public Universities",
     "OpenUniversityRanking.html": "Open Universities",
     "SkillRanking.html": "Skill Universities",
-    "SDGRanking.html": "SDGs Institutions"
+    "SDGRanking.html": "SDGs Institutions",
 }
 
 
-# ==========================================
-# 2. HELPER FUNCTIONS
-# ==========================================
+# ---------------- HELPER FUNCTIONS ----------------
 
 def get_text(element):
-    return " ".join(
-        (element.get_attribute("textContent") or "").split()
-    )
+    return " ".join((element.get_attribute("textContent") or "").split())
 
 
 def to_float(value):
     try:
-        return float(value.strip())
-    except (ValueError, AttributeError):
+        return float(str(value).replace(",", "").strip())
+    except (ValueError, TypeError):
         return None
 
 
-def extract_parameters(text):
+def extract_parameter_table(row):
+    """
+    Extract parameter scores from the expanded details table.
+    Expected columns: TLR, RPC, GO, OI, PERCEPTION.
+    """
 
-    # Find parameter values after the last parameter heading
-    match = re.search(
-        r"PERCEPTION\s*\(\s*100\s*\)(.*)",
-        text,
-        flags=re.IGNORECASE | re.DOTALL
-    )
+    result = {
+        "tlr": None,
+        "rpc": None,
+        "go": None,
+        "oi": None,
+        "pr": None,
+    }
 
-    if not match:
-        return [None] * 5
+    tables = row.find_elements(By.TAG_NAME, "table")
 
-    values = re.findall(
-        r"\d+(?:\.\d+)?",
-        match.group(1)
-    )
+    # Some NIRF pages may place the details in the next row.
+    try:
+        next_row = row.find_element(
+            By.XPATH, "following-sibling::tr[1]"
+        )
+        tables.extend(next_row.find_elements(By.TAG_NAME, "table"))
+    except Exception:
+        pass
 
-    if len(values) < 5:
-        return [None] * 5
+    for table in tables:
+        rows = table.find_elements(By.TAG_NAME, "tr")
 
-    return [float(x) for x in values[:5]]
+        for table_row in rows:
+            cells = table_row.find_elements(
+                By.XPATH, "./th | ./td"
+            )
 
+            headings = [get_text(cell).upper() for cell in cells]
 
-# ==========================================
-# 3. DISCOVER AVAILABLE CATEGORIES
-# ==========================================
+            if not any("TLR" in heading for heading in headings):
+                continue
+
+            # Find the next row containing the parameter values.
+            for value_row in rows[rows.index(table_row) + 1:]:
+                value_cells = value_row.find_elements(
+                    By.XPATH, "./th | ./td"
+                )
+
+                values = [get_text(cell) for cell in value_cells]
+
+                if len(values) < 5:
+                    continue
+
+                result["tlr"] = to_float(values[0])
+                result["rpc"] = to_float(values[1])
+                result["go"] = to_float(values[2])
+                result["oi"] = to_float(values[3])
+                result["pr"] = to_float(values[4])
+
+                return result
+
+    return result
+
 
 def discover_categories(driver, year):
-
     index_url = (
-        f"https://www.nirfindia.org/"
-        f"Rankings/{year}/Ranking.html"
+        f"https://www.nirfindia.org/Rankings/{year}/Ranking.html"
     )
 
     print(f"\nChecking categories for {year}...")
@@ -102,170 +126,117 @@ def discover_categories(driver, year):
         driver.get(index_url)
         time.sleep(2)
 
-        links = driver.find_elements(
-            By.CSS_SELECTOR,
-            "a[href]"
-        )
-
         categories = {}
 
-        for link in links:
-
+        for link in driver.find_elements(By.CSS_SELECTOR, "a[href]"):
             href = link.get_attribute("href")
 
             if not href:
                 continue
 
-            filename = Path(
-                urlparse(href).path
-            ).name
+            filename = Path(urlparse(href).path).name
 
             if (
                 filename in CATEGORY_NAMES
                 and f"/{year}/" in urlparse(href).path
             ):
-
                 categories[filename] = {
                     "name": CATEGORY_NAMES[filename],
-                    "url": href
+                    "url": href,
                 }
 
-        # Fallback if category directory links
-        # cannot be discovered automatically
         if not categories:
-
-            print("Using category URL fallback.")
-
-            for filename, name in CATEGORY_NAMES.items():
-
-                categories[filename] = {
-                    "name": name,
-                    "url": (
-                        f"https://www.nirfindia.org/"
-                        f"Rankings/{year}/{filename}"
-                    )
-                }
+            print("No categories discovered for this year.")
 
         return categories
 
     except Exception as error:
-
         print("Category discovery failed:", error)
-
         return {}
 
 
-# ==========================================
-# 4. EXTRACT ONE RANKING PAGE
-# ==========================================
+# ---------------- EXTRACT ONE RANKING PAGE ----------------
 
 def extract_ranking_page(driver, year, category, url):
-
     print(f"Collecting {year} - {category}")
 
-    try:
+    records = []
 
+    try:
         driver.get(url)
 
         wait = WebDriverWait(driver, 20)
 
         table = wait.until(
-            EC.presence_of_element_located(
-                (By.ID, "tbl_overall")
-            )
+            EC.presence_of_element_located((By.ID, "tbl_overall"))
         )
 
         time.sleep(2)
 
-        rows = table.find_elements(
-            By.CSS_SELECTOR,
-            "tbody > tr"
-        )
+        rows = table.find_elements(By.CSS_SELECTOR, "tbody > tr")
 
-        records = []
+        for row in rows:
+            cells = row.find_elements(By.XPATH, "./td")
 
-        for i, row in enumerate(rows):
-
-            # IMPORTANT: ./td selects only direct cells.
-            # It does not include nested detail-table cells.
-            cells = row.find_elements(
-                By.XPATH,
-                "./td"
-            )
-
+            # Main ranking rows contain at least six cells.
             if len(cells) < 6:
                 continue
 
-            institute_id = get_text(cells[0])
+            institution_id = get_text(cells[0])
 
-            if not institute_id:
+            if not institution_id:
                 continue
 
-            # Main ranking columns
-            name_text = get_text(cells[1])
+            name_cell = cells[1]
 
+            institution_name = get_text(name_cell)
             institution_name = re.split(
-                r"More Details|Close|TLR\s*\(\s*100\s*\)",
-                name_text,
-                flags=re.IGNORECASE
+                r"More Details|Close",
+                institution_name,
+                flags=re.IGNORECASE,
             )[0].strip()
 
             city = get_text(cells[2])
             state = get_text(cells[3])
 
-            score = to_float(get_text(cells[4]))
-
+            overall_score = to_float(get_text(cells[4]))
             rank_text = get_text(cells[5])
 
-            rank = (
-                int(rank_text)
-                if rank_text.isdigit()
-                else None
-            )
+            rank = int(rank_text) if rank_text.isdigit() else None
 
-            # Collect expanded detail information
-            detail_text = get_text(row)
-
-            # Details can be stored in the following
-            # expandable child row.
-            j = i + 1
-
-            while j < len(rows):
-
-                next_cells = rows[j].find_elements(
+            # Open the institution's parameter details.
+            try:
+                details_link = name_cell.find_element(
                     By.XPATH,
-                    "./td"
+                    ".//*[contains(normalize-space(text()), "
+                    "'More Details')]",
                 )
+                driver.execute_script(
+                    "arguments[0].click();", details_link
+                )
+                time.sleep(0.4)
+            except Exception:
+                # Details may already be expanded or unavailable.
+                pass
 
-                if len(next_cells) >= 6:
-                    break
-
-                detail_text += " " + get_text(rows[j])
-                j += 1
-
-            # Extract five aggregate NIRF parameters
-            tlr, rpc, go, oi, pr = extract_parameters(
-                detail_text
-            )
+            parameters = extract_parameter_table(row)
 
             records.append({
-
                 "year": year,
                 "category": category,
-                "institution_id": institute_id,
+                "institution_id": institution_id,
                 "institution_name": institution_name,
                 "city": city,
                 "state": state,
-                "overall_score": score,
+                "overall_score": overall_score,
                 "rank": rank,
                 "rank_original": rank_text,
-                "tlr": tlr,
-                "rpc": rpc,
-                "go": go,
-                "oi": oi,
-                "pr": pr,
-                "source_url": url
-
+                "tlr": parameters["tlr"],
+                "rpc": parameters["rpc"],
+                "go": parameters["go"],
+                "oi": parameters["oi"],
+                "pr": parameters["pr"],
+                "source_url": url,
             })
 
         if not records:
@@ -274,51 +245,42 @@ def extract_ranking_page(driver, year, category, url):
 
         df = pd.DataFrame(records)
 
-        # Save individual category CSV
         category_file = re.sub(
             r"[^a-z0-9]+",
             "_",
-            category.lower()
+            category.lower(),
         ).strip("_")
 
         year_dir = RAW_DIR / str(year)
         year_dir.mkdir(parents=True, exist_ok=True)
 
-        file_path = (
-            year_dir /
-            f"nirf_{year}_{category_file}.csv"
-        )
+        file_path = year_dir / f"nirf_{year}_{category_file}.csv"
 
         df.to_csv(
             file_path,
             index=False,
-            encoding="utf-8-sig"
+            encoding="utf-8-sig",
         )
 
-        missing_parameters = df[
+        missing_count = df[
             ["tlr", "rpc", "go", "oi", "pr"]
         ].isna().all(axis=1).sum()
 
         print("Records:", len(df))
         print("Saved:", file_path)
-        print("Rows missing all parameters:", missing_parameters)
+        print("Rows missing all parameters:", missing_count)
 
         return records
 
     except Exception as error:
-
         print(f"Failed: {year} - {category}")
         print("Reason:", error)
-
         return []
 
 
-# ==========================================
-# 5. MAIN DATA COLLECTION
-# ==========================================
+# ---------------- MAIN COLLECTION ----------------
 
 def main():
-
     options = Options()
     options.add_argument("--start-maximized")
 
@@ -327,20 +289,12 @@ def main():
     all_records = []
 
     try:
-
         for year in YEARS:
+            categories = discover_categories(driver, year)
 
-            categories = discover_categories(
-                driver,
-                year
-            )
+            print("Categories discovered:", len(categories))
 
-            print(
-                f"Categories discovered: {len(categories)}"
-            )
-
-            for filename, information in categories.items():
-
+            for information in categories.values():
                 category = information["name"]
                 url = information["url"]
 
@@ -348,60 +302,41 @@ def main():
                     driver,
                     year,
                     category,
-                    url
+                    url,
                 )
 
                 all_records.extend(records)
 
-        # Save combined master dataset
         if all_records:
-
             master = pd.DataFrame(all_records)
 
             master = master.drop_duplicates(
-                subset=[
-                    "year",
-                    "category",
-                    "institution_id"
-                ]
+                subset=["year", "category", "institution_id"]
             )
 
-            master_file = (
-                RAW_DIR /
-                "nirf_2017_2025_raw.csv"
-            )
+            master_file = RAW_DIR / "nirf_2017_2025_raw.csv"
 
             master.to_csv(
                 master_file,
                 index=False,
-                encoding="utf-8-sig"
+                encoding="utf-8-sig",
             )
 
-            print("\n================================")
-            print("COLLECTION FINISHED")
-            print("================================")
-
+            print("\n========== COLLECTION FINISHED ==========")
             print("Total records:", len(master))
-            print(
-                "Total categories:",
-                master["category"].nunique()
-            )
+            print("Total categories:", master["category"].nunique())
 
             print(
-                "Parameter missing values:\n",
-                master[
-                    ["tlr", "rpc", "go", "oi", "pr"]
-                ].isna().sum()
+                "Missing parameter values:\n",
+                master[["tlr", "rpc", "go", "oi", "pr"]].isna().sum(),
             )
 
             print("Master file:", master_file)
 
         else:
-
-            print("No data collected. Check website URLs.")
+            print("No data collected. Check the website URLs.")
 
     finally:
-
         driver.quit()
 
 
