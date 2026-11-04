@@ -1,0 +1,51 @@
+﻿year,category,institution_id,institution_name,city,state,overall_score,rank,rank_original,tlr,rpc,go,oi,pr,source_url
+2017,Pharmacy,IR17-PHRM-2-17784,Jamia Hamdard,New Delhi,Delhi,73.64,1,1,62.25,90.03,85.45,59.05,49.7,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-1-NIP-1,"National Institute of Pharmaceutical Education and Research, Mohali",S.A.S. Nagar (Mohali),Punjab,73.18,2,2,71.97,80.91,69.53,70.26,63.84,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-2-18023,University Institute of Pharmaceutical Sciences,Chandigarh,Chandigarh,69.59,3,3,68.01,57.93,87.0,90.44,53.75,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-2-18261,Institute of Chemical Technology,Mumbai,Maharashtra,65.67,4,4,75.12,64.44,65.19,60.6,46.98,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-2-18693,"National Institute of Pharmaceutical Education and Research, Hyderabad",Hyderabad,Telangana,65.14,5,5,88.8,44.84,65.74,77.3,41.71,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-2-18599,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,64.79,6,6,69.09,57.7,75.2,55.81,61.34,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-1-2812279307,Manipal College of Pharmaceutical Sciences,Manipal,Karnataka,59.64,7,7,74.94,41.95,56.0,65.21,68.5,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-1-2816342749,"Poona College of Pharmacy, Erandwane, Pune",Pune,Maharashtra,54.69,8,8,62.33,39.08,57.71,70.28,57.02,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-2-1-596,S.R.M Institute of Science and Technology,Chennai,Tamil Nadu,54.28,9,9,58.35,51.02,58.17,74.65,23.81,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-17445,JSS College of Pharmacy,Mysore,Karnataka,52.83,10,10,58.78,31.95,54.39,86.27,61.08,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-22,Dr. Harisingh Gour Vishwavidyalaya-Sagar,Sagar,Madhya Pradesh,51.13,11,11,42.06,63.2,40.57,64.03,50.37,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-2-1-2811781771,Birla Institute of Technology,Ranchi,Jharkhand,51.09,12,12,67.49,43.97,38.74,61.74,37.3,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-2-1-33,Annamalai University,Annamalainagar,Tamil Nadu,50.91,13,13,53.2,62.41,49.88,47.95,14.53,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-17860,Delhi Institute of Pharmaceutical Sciences and Research,New Delhi,Delhi,48.44,14,14,55.67,22.31,68.27,61.39,52.64,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-1-2809301801,Bombay College of Pharmacy,Mumbai,Maharashtra,47.87,15,15,62.57,28.35,48.81,50.39,58.0,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-2-18406,Nirma University,Ahmedabad,Gujarat,47.57,16,16,59.32,33.29,52.74,65.97,26.27,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-17497,JSS College of Pharmacy,Ootacamund,Tamil Nadu,47.13,17,17,48.44,25.86,60.67,74.65,52.5,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-2-1-31,Andhra University,Visakhapatnam,Andhra Pradesh,46.25,18,18,48.49,42.54,51.34,60.2,26.52,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-2-1-661,Sri Ramachandra University,Chennai,Tamil Nadu,45.97,19,19,64.04,31.42,31.83,71.07,38.54,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-2-18508,Banasthali Vidyapith,Banasthali,Rajasthan,45.76,20,20,53.1,25.57,73.17,65.64,9.68,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-17804,I.S. F. College of Pharmacy,Moga,Punjab,45.13,21,21,47.59,50.59,40.21,57.42,18.86,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-17138,"Department of Pharmaceutical Sciences, Dibrugarh University",Dibrugarh,Assam,45.12,22,22,52.26,40.24,56.46,48.3,12.48,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-17207,L. M. College of Pharmacy,Ahmedabad,Gujarat,44.4,23,23,65.76,9.59,61.08,56.96,38.72,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-17689,Y. B. Chavan College of Pharmacy,Aurangabad,Maharashtra,41.85,24,24,55.29,15.24,56.83,57.32,35.86,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-2-18265,Integral University,Lucknow,Uttar Pradesh,41.57,25,25,54.92,32.74,40.78,62.05,9.07,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-18020,Acharya Nagarjuna University College of Pharmaceutical Sciences,Guntur,Andhra Pradesh,41.5,26,26,47.76,29.61,59.8,57.61,5.69,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-1-2811891107,N.G.S.M.Institute of Pharmaceutical Sciences,Mangalore,Karnataka,40.63,27,27,54.3,9.22,52.18,80.96,30.3,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-17868,"Department of Pharmaceutical Sciences, Maharshi Dayanand University, Rohtak.",Rohtak,Haryana,40.53,28,28,50.85,24.79,44.38,67.11,22.45,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-17747,Prin.K.M.Kundnani College of Pharmacy,Mumbai,Maharashtra,40.37,29,29,54.83,17.65,51.98,56.77,25.39,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-1-2809439609,Goa College of Pharmacy,Panaji,Goa,40.01,30,30,66.17,1.9,57.14,55.21,26.37,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-2-1-155,Devi Ahilya Vishwavidyalaya,Indore,Madhya Pradesh,39.2,31,31,52.97,16.8,48.27,62.99,23.16,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-17659,"Sanjivani College of Pharmaceutical Education and Research, Kopargaon",Kopargaon,Maharashtra,38.44,32,32,59.98,9.09,53.6,70.0,0.03,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-17136,"College of Pharmacy, Madras Medical College",Chennai,Tamil Nadu,38.34,33,33,53.18,15.54,39.6,70.0,28.13,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-17848,Smt. Kishoritai Bhoyar College of Pharmacy,Kamptee,Maharashtra,38.2,34,34,63.7,8.93,48.84,62.94,3.49,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-2-18215,Guru Ghasidas Vishwavidyalaya,Bilaspur,Chhattisgarh,38.1,35,35,67.94,17.87,34.35,45.94,9.02,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-1-2809406046,"Bharati Vidyapeeth College of Pharmacy, Kolhapur",Kolhapur,Maharashtra,37.67,36,36,54.35,7.77,44.58,61.5,39.57,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-2-1-N002,KLE Academy of Higher Education and Research,Belagavi,Karnataka,37.61,37,37,61.47,13.43,42.63,56.8,9.25,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-1-2809276349,R. C. Patel Institute of Pharmaceutical Education & Research,Shirpur,Maharashtra,37.53,38,38,56.58,18.06,39.27,61.89,10.91,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-2-1-629,Shoolini University of Biotechnology and Management Sciences-Solan,Solan,Himachal Pradesh,37.45,39,39,46.47,16.88,57.11,48.71,21.56,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-22444,Padmashree Dr D Y Patil Institute of Pharmaceutical Sciences and Research,Pune,Maharashtra,37.42,40,40,60.63,4.09,43.42,69.48,23.67,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-17165,P. E. Society's Modern College of Pharmacy,Pune,Maharashtra,37.06,41,41,53.03,18.15,41.74,64.01,9.48,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-17092,SVKM's Dr. Bhanuben Nanavati College of Pharmacy,Mumbai,Maharashtra,36.93,42,42,54.66,12.47,60.46,46.68,0.28,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-2-18385,Narsee Monjee Institute of Management Studies -Mumbai,Mumbai,Maharashtra,36.64,43,43,50.22,15.85,48.31,49.61,21.98,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-2-1-216,Guru Jambeshwar University of Science and Technology,Hissar,Haryana,36.59,44,44,59.35,25.41,14.44,58.42,24.34,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-17169,Institute of Pharmaceutical Education and Research,Wardha,Maharashtra,36.28,45,45,52.27,26.25,28.56,65.08,5.11,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-17491,PSG College of Pharmacy,Coimbatore,Tamil Nadu,36.21,46,46,53.15,14.0,41.46,69.95,7.7,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-23151,MVP Samaj's College of Pharmacy,Nashik,Maharashtra,36.11,47,47,55.37,1.47,54.42,69.38,12.4,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-1-2813272662,Chalapathi Institute of Pharmaceutical Sciences,Guntur,Andhra Pradesh,36.1,48,48,55.93,6.16,45.87,67.21,15.81,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-1-2815712186,Gurunanak College of Pharmacy,Nagpur,Maharashtra,35.99,49,49,61.31,6.77,44.87,65.0,0.98,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
+2017,Pharmacy,IR17-PHRM-1-17746,AISSMS College of Pharmacy,Pune,Maharashtra,35.7,50,50,53.59,15.65,39.19,63.11,7.66,https://www.nirfindia.org/Rankings/2017/PharmacyRanking.html
